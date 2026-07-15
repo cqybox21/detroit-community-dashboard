@@ -3,6 +3,4 @@ pandas
 geopandas
 plotly
 shapely
-fiona
-pyproj
 pyogrio
