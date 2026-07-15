@@ -1,0 +1,2016 @@
+@type,@id,name,amenity,@lat,@lon
+node,255337652,Descent of the Holy Ghost Church,place_of_worship,42.3121640,-82.9931660
+node,353916243,Bethany School,school,42.4058705,-82.9488062
+node,353922537,Couzens School,school,42.3440474,-83.0675475
+node,353928629,River Rouge STEM Academy,school,42.2744829,-83.1310343
+node,353928712,Duvall School,school,42.3003156,-83.2504840
+node,353928739,Dwyer School,school,42.3943872,-83.0744907
+node,353931297,Finlay School,school,42.2680940,-83.1835365
+node,353939226,Highview School,school,42.3371422,-83.2854130
+node,353939299,Holbrook School,school,42.3872561,-83.0540406
+node,353942172,Emmanuel Lutheran School,school,42.3062904,-83.2526895
+node,353945557,Lafayette School,school,42.2572608,-83.1777028
+node,353947753,Lindbergh School,school,42.3150886,-83.2698702
+node,353949227,Madison School,school,42.2739270,-83.2657620
+node,353960392,Palmer Institute,school,42.3617503,-83.0660396
+node,353960504,Pasteur School,school,42.4377701,-83.1433896
+node,353960906,Peace School,school,42.4000373,-82.9451947
+node,353964736,Saint Cyril of Jerusalem School,school,42.2617050,-83.2335385
+node,353965088,Saint Barbaras School,school,42.3260383,-83.1753314
+node,353965608,Saint Clement School,school,42.3261488,-83.1846482
+node,353966257,Saint Henry School,school,42.2619830,-83.1699247
+node,353966483,Saint Ignatius School,school,42.4017040,-82.9829746
+node,353967186,Saint Anselm School,school,42.3297596,-83.2632623
+node,353969149,Saint Mary School,school,42.2750222,-83.1967060
+node,353970182,Saint Paul Monastery,place_of_worship,42.3844810,-83.2677073
+node,353970554,Saint Philomena School,school,42.4041193,-82.9182380
+node,353971073,Saint Stephens School,school,42.2694828,-83.1913146
+node,353971359,Salem School,school,42.3758710,-83.0079754
+node,353971925,Santa Maria School,school,42.3948072,-83.0732354
+node,353979817,Thorne School,school,42.2747603,-83.2838182
+node,353983646,Ann Visger Elementary School,school,42.2644788,-83.1363390
+node,353984311,William Ford Senior Activities Center,school,42.2580939,-83.2777068
+node,353986361,Wilson School,school,42.3084361,-83.1238246
+node,353987329,Yost School,school,42.4077481,-83.2836947
+node,354012402,City of Hope Church,place_of_worship,42.4170208,-83.1474824
+node,354012438,Clara B Ford School,school,42.3425639,-83.2430706
+node,354013382,New Genesis Missionary Baptist Church,place_of_worship,42.4079018,-83.2832324
+node,354013439,New Greater Faith Missionary Baptist Church,place_of_worship,42.4100000,-83.1336000
+node,354013556,Muhammad University of Islam,school,42.4113000,-83.1121000
+node,354013571,Mount Zion New Covenant Baptist Church,place_of_worship,42.3741929,-83.0801315
+node,354013591,New Saint Paul Tabernacle Church of God in Christ,place_of_worship,42.4022663,-83.2175537
+node,354013597,Muhammad University of Islam,school,42.3991757,-83.1591503
+node,354013606,New Mount Vernon Baptist Church,place_of_worship,42.4485765,-83.1635330
+node,354013729,Hill Memorial Church,place_of_worship,42.3280000,-83.1860000
+node,354013797,Holy City of New Jerusalem Church,place_of_worship,42.3870000,-82.9498000
+node,354013912,Detroit School of Industrial Arts,school,42.4245000,-82.9459000
+node,354013940,Chandler Park Academy-Philip,school,42.3733000,-82.9419000
+node,354014118,Cross of Glory Evangelical Lutheran Church,place_of_worship,42.4430000,-82.9463000
+node,354014308,Dar-Al-Arqam School,school,42.3437000,-83.2145000
+node,354014314,Cultural Center Early Learning Center,school,42.3446083,-83.0596510
+node,354014389,Muslim American Youth Academy,school,42.3305940,-83.2290214
+node,354014451,Church of Christ Holford,place_of_worship,42.2684000,-83.1441000
+node,354014476,Chandler Park Academy-Greenfield,school,42.4337000,-83.1989000
+node,354015017,Union Second Baptist Church,place_of_worship,42.2671000,-83.1476000
+node,354015342,Victors' Center,school,42.3766000,-82.9403000
+node,354019651,Waterfall Missionary Baptist Church,place_of_worship,42.2658000,-83.1555000
+node,354019862,Word New Life Church,place_of_worship,42.4464000,-83.1585000
+node,354019869,Word of Truth Church of God in Christ,place_of_worship,42.4491000,-83.0307000
+node,354019880,Y Gladys Barsamian Preparatory Center,school,42.3723000,-83.0770000
+node,354020131,School-to-Work Academy,school,42.3440241,-83.1663563
+node,354020254,Saint Thomas Aquinas Parish Center,place_of_worship,42.3301000,-83.2352000
+node,354021008,Shiyloh Baptist Church,place_of_worship,42.3713000,-83.2634541
+node,354021096,Saint Timothy Lutheran School,school,42.4332000,-83.2390000
+node,354021136,Greater New Light Missionary Baptist Church,place_of_worship,42.3692366,-83.1061074
+node,354021168,Greater Marion Chapel Missionary Baptist Church,place_of_worship,42.3904104,-83.1934487
+node,354021331,Tawheed Center School,school,42.3432000,-83.2225000
+node,354021338,Timbuktu Academy of Science and Technology,school,42.4170000,-83.0222000
+node,354021529,EBER Memorial Baptist Church,place_of_worship,42.3865000,-83.2271000
+node,354021575,Eastside Nursery School,school,42.4474810,-82.9702594
+node,354021645,E T Clark Academy,school,42.4102000,-83.1662000
+node,354021726,Far West Early Learning Center,school,42.3850040,-83.2706590
+node,354021729,Exousia United Methodist Church,place_of_worship,42.4345000,-82.9934000
+node,354021737,Far West Alternative Middle School,school,42.4008730,-83.2613334
+node,354021747,Family Place Head Start,school,42.3802000,-83.0792000
+node,354021913,Saint Hilda's Episcopal Church,place_of_worship,42.2717000,-83.1292000
+node,354021923,First Philippian Grace Church,place_of_worship,42.3636000,-83.2826000
+node,354022316,Garden of Faith Missionary Baptist Church,place_of_worship,42.3907000,-83.1420000
+node,354022361,Giving Tree Montessori School,school,42.4036392,-82.9179465
+node,354022443,God's Way Academy,school,42.3695000,-83.0690000
+node,354022464,Grace Christian Methodist Episcopal Church,place_of_worship,42.4177000,-83.1099000
+node,354022477,Gordy Memorial Church of God in Christ,place_of_worship,42.2668000,-83.1466000
+node,354022505,Gospel True Light Church of God in Christ,place_of_worship,42.3940088,-83.1034938
+node,354022633,Blanche Kelso Bruce Academy,school,42.3927000,-82.9829000
+node,354022641,Blackwell Christian Academy,school,42.4159000,-83.2139000
+node,354022645,Here's Hope Christian School,school,42.4299000,-83.2382000
+node,354022801,Haven of Rest Missionary Baptist Church,place_of_worship,42.4153000,-82.9999000
+node,354022967,Guardian Lutheran School,school,42.3123000,-83.2776000
+node,354022995,,place_of_worship,42.4427872,-83.0238779
+node,354022999,Academy for Business and Technology Elementary School,school,42.3262425,-83.1749918
+node,354023006,Horizon Alternative High School,school,42.4010979,-83.0567594
+node,354023038,Academy of Excellence,school,42.4197000,-83.0038000
+node,354023053,Academy of Michigan,school,42.4457000,-83.2005000
+node,354023151,Benjamin E Mays Male Academy,school,42.3685000,-83.0012000
+node,354023217,Faith Deliverance Baptist Church,place_of_worship,42.3693647,-83.1280440
+node,354023224,First Baptist Church of Ecorse,place_of_worship,42.2601000,-83.1510000
+node,354023277,Art 'n Dot Nursery and Kindergarten Place,school,42.4111000,-83.1700000
+node,354023473,Call Together Day Care Center,school,42.3555192,-83.0625201
+node,354023491,Capuchin Mission Office,place_of_worship,42.3522587,-83.0150442
+node,354023660,Carl T Rowan Community Elementary School,school,42.4174000,-83.0222000
+node,354025347,Professional Development Academy,school,42.4191000,-83.1900000
+node,354025554,Saint Henry's Church,place_of_worship,42.2613000,-83.1698000
+node,354025799,Rouge Free Will Baptist Church,place_of_worship,42.2749000,-83.1283000
+node,354026778,Morang Street Mission,place_of_worship,42.4303000,-82.9586000
+node,354026923,More Light Baptist Church,place_of_worship,42.2564000,-83.1541000
+node,354026943,Morris Child Development Center,school,42.4229961,-83.1603041
+node,354027618,Montessori Children's Center,school,42.2698000,-83.1925000
+node,354027649,Michigan Institute for Construction Trades,school,42.3322808,-83.0492470
+node,354027856,Northwest Detroit Cooperative School,school,42.4139000,-83.2482000
+node,354027872,People's Baptist Christian School,school,42.3550197,-83.0272073
+node,354027896,Northern Annex,school,42.3819000,-83.0816000
+node,354028151,Redford Presbyterian Church,place_of_worship,42.4145000,-83.2592000
+node,354028155,Regional Mission Center,place_of_worship,42.4267000,-83.0413000
+node,354028164,Our Lady of Guadalupe Middle School,school,42.3273000,-83.1348000
+node,354028194,Order of the Cannons Regular of the Holy Cross,place_of_worship,42.4277453,-82.9817624
+node,354028541,Jessie C Kennedy Institute,school,42.3311000,-83.0480000
+node,354028552,Joan Ann Bullock Academy,school,42.3658000,-83.1929000
+node,354028831,Lycee' Internationale,school,42.4220000,-83.1746000
+node,354029007,Iris Becker Elementary School,school,42.3405000,-83.1661000
+node,354029055,In Good Faith Missionary Baptist Church,place_of_worship,42.4054000,-83.1505000
+node,354029058,M L Winans Academy of Performing Arts,school,42.4267000,-83.0253000
+node,354029229,Marvin L Winans Academy of Performing Arts,school,42.4266000,-83.0263000
+node,354029243,Mayflower Nursery Play Center,school,42.4241000,-83.1442000
+node,367812921,Mercy Family Care - Chandler,clinic,42.3916230,-82.9686160
+node,367813144,Grace Dialysis Center,doctors,42.4241000,-83.1795000
+node,367813162,DMC Health Care Center - Detroit,doctors,42.4427785,-83.2634117
+node,367813173,Bon Secours Internal Medicine,doctors,42.3797000,-82.9423000
+node,367813180,Oakwood Healthcare Center - Dearborn Heights,doctors,42.3553633,-83.2840348
+node,367813188,Northeast Physician Associates Health Center,doctors,42.4421999,-83.0202467
+node,367813678,Henry Ford Village Medical Center,doctors,42.3269000,-83.1931000
+node,461962122,Cherry Hill Presbyterian Church,place_of_worship,42.3129274,-83.2736378
+node,1328043546,University Community Church,place_of_worship,42.3054336,-83.0626814
+node,1656042859,Detroit Zen Center,place_of_worship,42.4025447,-83.0602455
+node,2418338228,Planned Parenthood,clinic,42.3508990,-83.0639479
+node,2904499371,Health Walk In Clinic,doctors,42.3013603,-82.9921801
+node,3237420386,Detroit Innovation Academy,school,42.3707618,-83.2184551
+node,3337201585,Academy of Public Leadership,school,42.3608873,-83.2212134
+node,3337201586,Detroit Institute of Technology,school,42.3597922,-83.2208509
+node,3337201587,Medicine & Community Health Academy,school,42.3608458,-83.2219223
+node,3353855619,Saint Scholastica Parish,place_of_worship,42.4185565,-83.2212305
+node,3373636357,Ideal Islamic Center,place_of_worship,42.3933897,-83.0572360
+node,3382790350,,place_of_worship,42.4187102,-83.1384291
+node,3834903395,Clínica Médica Familiar,clinic,42.3165725,-83.1043480
+node,3869444957,Boll Family YMCA,,42.3352736,-83.0479986
+node,4342156990,Imam Ali Islamic Center,place_of_worship,42.3434226,-83.2012869
+node,4385861606,Wayne State University Harris Literacy Program,school,42.3093477,-83.1326819
+node,4514402750,St. Michael's Church,place_of_worship,42.2985329,-83.0064461
+node,4529991216,,place_of_worship,42.4147710,-83.1547130
+node,5261160741,Lighthouse Community Church,place_of_worship,42.4031825,-83.1667829
+node,5666925752,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.3073787,-82.9403874
+node,5834573361,Fews Memorial Christian Church,place_of_worship,42.2663243,-83.1447382
+node,5917176539,Henry Ford Medical Center - Harbortown,clinic,42.3416491,-83.0130429
+node,5952681696,WSU Physician's Group,doctors,42.3528684,-83.0607798
+node,5991148132,Cantrell Chapel,place_of_worship,42.3751245,-82.9869166
+node,5996085375,Greater Eastside Healing Tabernacle Cogic,place_of_worship,42.3650582,-82.9835532
+node,6003445252,Spreading Love Gospel Temple,place_of_worship,42.3641537,-82.9850336
+node,6003445253,St. James,place_of_worship,42.3641220,-82.9851301
+node,6003445254,Pure Holiness Church,place_of_worship,42.3640903,-82.9852052
+node,6202521453,Few Memorial Christian Methodist Episcopal Church,place_of_worship,42.2663367,-83.1447277
+node,6226919424,Medicina Urbana,doctors,42.3172027,-83.1036403
+node,6348645443,Healing Feet,clinic,42.2587829,-83.1685842
+node,6588823750,Laser Duet,clinic,42.3439885,-83.1938934
+node,6719809745,FYI Doctors,doctors,42.2741730,-83.0073242
+node,6720062921,South Windsor Women's Health,doctors,42.2563605,-83.0024767
+node,6739122489,University Preparatory Academy Elementary School – Mark Murray Campus,school,42.3655972,-83.0726791
+node,6744668486,Clara B. Ford Academy,school,42.3402474,-83.2438701
+node,6744668487,Vista Meadows Academy,school,42.3407880,-83.2436916
+node,6744692043,Voyageur College Prep High School,school,42.3323267,-83.1185206
+node,6772524162,,doctors,42.2923224,-83.0133005
+node,6779363657,Covenant House Academy Southwest,school,42.3208429,-83.0853564
+node,6779497684,Escuela Avancemos,school,42.3209133,-83.0762878
+node,6790655295,Pathways Academy,school,42.3655558,-82.9701917
+node,7022580441,,doctors,42.3078345,-82.9634757
+node,7102198924,Detroit Medical Center,doctors,42.3332790,-83.0456204
+node,7626676722,Highland Park Medical Center,doctors,42.4100436,-83.1014165
+node,8033576108,Zekelman School of Business & Information Technology - St. Clair College,school,42.3190501,-83.0402531
+node,8265455075,Corewell Health Urgent Care,clinic,42.3030748,-83.2605927
+node,8518842398,Greater Mount Everett Church of God in Christ,place_of_worship,42.4470828,-83.1192461
+node,8587883628,DMC Metropolitan Health Center - Hamtramck,doctors,42.3933551,-83.0553583
+node,8587883629,Max Care - Medical Group and Urgent Care,clinic,42.3931788,-83.0552564
+node,8641781699,Premier MRI,clinic,42.2602097,-83.2088804
+node,8641781701,OPM Doctors,clinic,42.2606147,-83.2101303
+node,8747692568,DaVita Dialysis,clinic,42.4152315,-82.9354368
+node,8848572261,Concentra Urgent Care,clinic,42.3374630,-83.0214655
+node,9060387401,Marie's Chiropractic Health,clinic,42.3864539,-83.2164487
+node,9135726081,I Am My Brother's Keeper Ministries,place_of_worship,42.3427346,-83.0728074
+node,9248688860,Lawrence B Rubin Dpm Pc,doctors,42.4032521,-83.2237784
+node,9451783980,Corewell Health Breast Care Center - Dearborn,doctors,42.2932925,-83.2119635
+node,9451783982,Corewell Health Pediatric - Dearborn,doctors,42.2931853,-83.2120494
+node,9496324970,K. Surapeneni M.D. Internal Medicine,doctors,42.4474315,-83.1047076
+node,9496324971,Bi-County Urgent Care,clinic,42.4475028,-83.1045414
+node,9532132555,"Benjamin Maniaci, OD",doctors,42.3281948,-83.0395039
+node,9537737676,Kawar Surgical Center,clinic,42.3349843,-83.1859241
+node,9554321153,DaVita Dialysis,clinic,42.4384079,-83.1189549
+node,9647600239,New Heart Ministries - Detroit,place_of_worship,42.4330957,-82.9785585
+node,9647600283,,place_of_worship,42.4318166,-82.9802682
+node,9664668113,Dearborn Heart & Vascula Associates,doctors,42.3180285,-83.1909990
+node,9700952636,Hamtramck Medical Urgent Care,clinic,42.3996646,-83.0505778
+node,9716735377,,school,42.3137352,-83.0543353
+node,9999822924,Phlebotomy Express Training Center,clinic,42.4217438,-83.1604153
+node,10049983822,S.M. Kaura M.D. Internal Medicine,doctors,42.2570483,-83.2114168
+node,10057384876,Field Temple,place_of_worship,42.3706767,-83.0362250
+node,10239046742,One Church Detroit,place_of_worship,42.4167643,-83.1617771
+node,10288257711,Plum Health,clinic,42.3315901,-83.0683156
+node,10288841335,DaVita Dialysis,clinic,42.4234932,-83.1797563
+node,10754576061,Masjid Al-Salam,place_of_worship,42.3163864,-83.1747939
+node,10756778053,MG Urgent Care,clinic,42.3267484,-83.2758261
+node,10915203487,Venocure,doctors,42.2912413,-83.2508197
+node,10969443546,Oak Street Health,clinic,42.4019843,-83.2240298
+node,11177321012,"Dr. Ashar Khan, MD",doctors,42.2987544,-83.2787411
+node,12289098281,DaVita Dialysis,clinic,42.2622351,-83.2039090
+node,12478970777,Glory to God Baptist Church,place_of_worship,42.2737389,-83.2316910
+node,12487330067,Trust One Temple,place_of_worship,42.2880655,-83.2328958
+node,12487334774,The Church of Jesus Christ of Latter-day Saints,place_of_worship,42.2919824,-83.2302591
+node,12559396525,,place_of_worship,42.3044144,-82.9850871
+node,12559396526,,place_of_worship,42.3049998,-82.9841221
+node,12559434572,,doctors,42.3083909,-83.0303451
+node,12628935526,Nephrology Hypertension Clinic P.C.,clinic,42.2613112,-83.2151770
+node,12628935527,DaVita Kidney Care,clinic,42.2612520,-83.2149703
+node,12692168409,Corewell Health,clinic,42.2924066,-83.2101380
+node,12708402363,1st Choice Urgent Care,clinic,42.3012404,-83.2643688
+node,12708402364,1st Choice Medical Group,clinic,42.3011433,-83.2643229
+node,12842975067,Ride+Rumble,clinic,42.3014896,-83.2665575
+node,12856179388,Harvest Bible Church Windsor,place_of_worship,42.2669430,-83.0534581
+node,12887914774,Assumption College Catholic High School,school,42.2948548,-83.0615097
+node,12887914775,Assumption College Catholic Middle School,school,42.2959840,-83.0616009
+node,12887914776,,school,42.2957124,-83.0607332
+node,13122742203,Get Well Urgent Care Of Dearborn,clinic,42.3443547,-83.1741203
+node,13122745517,Get Well Urgent Care Of Dearborn Heights,clinic,42.3414371,-83.2826698
+node,13122752560,Get Well Urgent Care Of Detroit,clinic,42.4059063,-83.2319886
+node,13122754417,Get Well Urgent Care Of Harper Woods,clinic,42.4481339,-82.9240322
+node,13183857932,Beth El Windsor,place_of_worship,42.2736005,-83.0346631
+node,13231987766,John McGivney Children's Centre,clinic,42.2828162,-83.0676930
+node,13585438236,Wright & Filippis,doctors,42.2977840,-83.2745640
+node,13594480541,Clairmount Clinic,clinic,42.3820966,-83.0830670
+node,13897468546,Community Urgent Care,clinic,42.2978155,-83.2637852
+node,13943654401,Corewell Health Dearborn Hospital Children's Pediatric Care Center,hospital,42.2956574,-83.2139498
+node,13970839385,Horizon Health,clinic,42.3007756,-83.2688547
+node,13970898849,Trail Post & Hive Mesophysical,doctors,42.2549592,-83.2548236
+way,23306327,Riverside Secondary School,school,42.3298092,-82.9353699
+way,23306382,École élémentaire catholique Georges P Vanier,school,42.3248978,-82.9594917
+way,23306391,Dr. David Suzuki Public School,school,42.3270936,-82.9602285
+way,23306478,St. Rose Catholic School,school,42.3301385,-82.9543492
+way,23306572,Princess Elizabeth Public School,school,42.3235093,-82.9684935
+way,23306596,F.J. Brennan Catholic High School,school,42.3238027,-82.9745027
+way,23306613,St. John Vianney Catholic School,school,42.3366841,-82.9390624
+way,23306862,Hon W C Kennedy Collegiate Institute,school,42.2957895,-83.0208818
+way,23364267,Roseville Public School,school,42.3064553,-82.9468113
+way,23375175,Glenwood Public School,school,42.2618977,-83.0278717
+way,23375184,Vincent Massey Secondary School,school,42.2608094,-83.0285718
+way,23378477,École secondaire de Lamothe-Cadillac,school,42.2884447,-83.0453457
+way,23394311,Windsor Metropolitan Hospital,hospital,42.3003281,-82.9971850
+way,23394340,St. Michael's Adult Catholic High School,school,42.2969678,-83.0183472
+way,23409223,W.J. Langlois Catholic School,school,42.2943165,-82.9522987
+way,23409229,William G. Davis Public School,school,42.2990137,-82.9540964
+way,23551238,Coronation Public School,school,42.3141555,-82.9621140
+way,23604508,W. F. Herman Academy Secondary School,school,42.3089689,-82.9750412
+way,23737069,Prince Edward Public School,school,42.3098075,-83.0173017
+way,23737713,Walkerville Collegiate Institute,school,42.3173837,-83.0070955
+way,23778149,Westview Freedom Academy Secondary School,school,42.2930087,-83.0567333
+way,24723079,Eastwood Public School,school,42.3008020,-82.9222709
+way,24937749,St. Joseph's High School,school,42.3167857,-82.9129200
+way,32760937,Adult Education Center West Campus,school,42.4094882,-83.2082334
+way,50365172,Central United Methodist Church,place_of_worship,42.3374285,-83.0504743
+way,58310341,Tabernacle Missionary Baptist Church,place_of_worship,42.3568552,-83.1073520
+way,58371161,Detroit Collegiate Preparatory Academy at Northwestern,school,42.3566211,-83.1034462
+way,58394338,Highland Park Presbyterian Church,place_of_worship,42.3968888,-83.0917928
+way,58414474,West Side Academy of Information Technology and Cyber Security,school,42.3411712,-83.1027956
+way,58414568,Western International High School,school,42.3191353,-83.0917247
+way,58424135,Highland Park Renaissance Academy Henry Ford Campus,school,42.4109210,-83.1060526
+way,58424170,Liberty School,school,42.4131478,-83.1174925
+way,58429791,New Truth Missionary Baptist Church,place_of_worship,42.4151352,-83.1151848
+way,58741226,New Paradigm Loving Academy,school,42.3910598,-83.0751690
+way,58741752,Life-Line Christian Center Ministries,place_of_worship,42.3854769,-83.0686059
+way,58758790,Jamison Temple Baptist Church,place_of_worship,42.3829420,-82.9666786
+way,59202754,Carstens Elementary-Middle School,school,42.3632262,-82.9484192
+way,60312401,Martin Luther King High School,school,42.3443484,-83.0144877
+way,68935841,The Cathedral Church of Saint Paul,place_of_worship,42.3562299,-83.0632824
+way,68952273,Plymouth United Church of Christ,place_of_worship,42.3595833,-83.0562137
+way,68957213,Bethel African Methodist Episcopal Church,place_of_worship,42.3604892,-83.0567703
+way,68992666,Greater King Soloman Baptist Church,place_of_worship,42.3519060,-83.0703990
+way,69117976,Annunciation Greek Orthodox Cathedral,place_of_worship,42.3357649,-83.0389873
+way,69118027,Saint John's Episcopal Church of Detroit,place_of_worship,42.3396961,-83.0520511
+way,69134142,I Am Temple,place_of_worship,42.3366168,-83.0578389
+way,69139629,First Congregational Church,place_of_worship,42.3552986,-83.0625953
+way,69144975,Citadel of Faith Community Church,place_of_worship,42.3519910,-83.0782282
+way,69214027,First Unitarian Universalist Church of Detroit,place_of_worship,42.3532312,-83.0655819
+way,69216976,Church of the New Jerusalem,place_of_worship,42.3551760,-83.0610458
+way,69250680,Central Alliance Church,place_of_worship,42.3541713,-83.0687547
+way,69253574,Woodside Bible Church,place_of_worship,42.3503130,-83.0617730
+way,69256620,Cass Community United Methodist Church,place_of_worship,42.3482403,-83.0626878
+way,69256832,Evangalist Tabernacle of Faith,place_of_worship,42.3501142,-83.0683404
+way,69287480,Our Lady of the Rosary Catholic Church,place_of_worship,42.3645238,-83.0688524
+way,69291705,First Presbyterian Church,place_of_worship,42.3441404,-83.0551372
+way,69304775,Sacred Heart Catholic Church,place_of_worship,42.3509301,-83.0457018
+way,69309310,Friendship Baptist Church,place_of_worship,42.3522209,-83.0528571
+way,69325766,Starlight Temple of Truth,place_of_worship,42.3468915,-83.0514497
+way,69349712,Boll Family YMCA,,42.3352058,-83.0476494
+way,71167260,Original New Grace Baptist Church,place_of_worship,42.4350953,-83.1159358
+way,71176554,Chaldean Sacred Heart Church,place_of_worship,42.4324706,-83.1059955
+way,71176556,The Christian House of Prayer,place_of_worship,42.4324682,-83.1049721
+way,71176567,Oasis of Hope,place_of_worship,42.4318785,-83.1127350
+way,71186864,Detroit Police Academy,school,42.4221359,-83.1137728
+way,71187630,Most Holy Trinity Church,place_of_worship,42.3298288,-83.0604816
+way,71531215,William Clay Ford Center for Athletic Medicine,clinic,42.3679466,-83.0767178
+way,71735214,Spirit of Hope,place_of_worship,42.3413766,-83.0730272
+way,71737161,Deliverance Temple,place_of_worship,42.3381015,-83.0719995
+way,71848515,2nd Chance Ministries,place_of_worship,42.3311195,-83.0808219
+way,72347630,Frederick Douglass Academy for Young Men,school,42.3490563,-83.0843143
+way,72353282,Greater Fellowship MBC,place_of_worship,42.3498237,-83.0866314
+way,87213807,M.S. Hetherington Public School,school,42.3368303,-82.9347544
+way,95435491,Life Giver Church,place_of_worship,42.3034952,-82.9135809
+way,105530705,Mariner's Church,place_of_worship,42.3292032,-83.0420496
+way,105554844,Iclesia de Dios,place_of_worship,42.3231932,-83.0863516
+way,108378265,Parkwood Gospel Temple,place_of_worship,42.2865466,-82.9748200
+way,114015737,St. Aloysious Catholic Church,place_of_worship,42.3328461,-83.0504378
+way,114134875,Saint Matthews and Saint Joseph's Episcopal Church,place_of_worship,42.3809459,-83.0798453
+way,114135019,Metropolitan United Methodist Church,place_of_worship,42.3747021,-83.0755240
+way,114135272,Woodward Avenue Presbyterian Church,place_of_worship,42.3779956,-83.0791852
+way,114136334,Saint John's Christian Methodist Episcopal Church,place_of_worship,42.3797002,-83.0803447
+way,114187991,Saints Peter & Paul Jesuit Church,place_of_worship,42.3319614,-83.0382512
+way,114189063,St. Mary Church,place_of_worship,42.3355509,-83.0404601
+way,114191479,"Christ Church, Detroit",place_of_worship,42.3324453,-83.0349327
+way,139307854,Riverside Baptist Church,place_of_worship,42.3276120,-82.9352444
+way,139585968,Saint Simeon Stylites Melkite Catholic Church,place_of_worship,42.3309152,-82.9333186
+way,152896359,Inter-City Baptist Church,place_of_worship,42.2670533,-83.1989397
+way,154009519,Mumford High School,school,42.4214092,-83.1632856
+way,154009520,MacDowell Preparatory Academy,school,42.4339251,-83.1659547
+way,154009521,Schulze Academy for Technology and Arts,school,42.4194454,-83.1683158
+way,154009530,John R. King Academic and Performing Arts Academy,school,42.4082088,-83.1868993
+way,154009534,Northwest Activities Center,school,42.4231020,-83.1690007
+way,154009541,Coleman A. Young Elementary School,school,42.4063220,-83.1897001
+way,154059525,Renaissance High School,school,42.4179805,-83.1940544
+way,154059529,Randolph Career and Technical Center,school,42.4175034,-83.1908704
+way,154059538,Mary McLeod Bethune Elementary-Middle School,school,42.4087971,-83.1516753
+way,154064300,Henry Ford Medical Center - Detroit Northwest,clinic,42.4203262,-83.2149261
+way,154064302,Ralph W Emerson Elementary-Middle School,school,42.4235967,-83.2337230
+way,154064311,Rutherford Winans Academy,school,42.4220537,-83.2097479
+way,154064344,Henry Ford High School,school,42.4392823,-83.2363727
+way,155058504,Kresge Eye Institute,hospital,42.3578437,-83.0573256
+way,165751170,Our Lady of Perpetual Help Catholic School,school,42.2835709,-83.0030623
+way,180719724,North End Church of God In Christ,place_of_worship,42.3727379,-83.0713653
+way,180761821,Linwood Church of Christ,place_of_worship,42.3971825,-83.1251696
+way,180761823,Unity Mission Church,place_of_worship,42.3995244,-83.1206193
+way,180910395,Catholic Church of St. Moses the Black,place_of_worship,42.4008824,-83.1171407
+way,185647390,Mount Zion New Covenant Baptist Church - New Covenant Bible Institute & College,place_of_worship,42.3742109,-83.0801419
+way,185647410,New Prosperity M.B.C.,place_of_worship,42.3775792,-83.0816801
+way,203837944,Frank W. Begley Public School,school,42.3206881,-83.0219546
+way,204971066,Bow Elementary-Middle School,school,42.4366134,-83.2049109
+way,210509209,St. James Catholic School,school,42.2835551,-83.0612894
+way,210541223,Central Public School,school,42.2675801,-83.0178385
+way,210541240,St. Gabriel Catholic School,school,42.2572804,-83.0212654
+way,210541256,Christ the King Separate School,school,42.2703591,-83.0259390
+way,224921736,Iglesia de Christo,place_of_worship,42.3224445,-83.0908237
+way,224921747,Vernor Urgent Care,clinic,42.3241696,-83.0865907
+way,227821937,Islamic Center of America,place_of_worship,42.3303454,-83.2297840
+way,227822155,Muslim American Youth Academy,school,42.3306908,-83.2291273
+way,227830549,The Dearborn Academy,school,42.3311626,-83.2282374
+way,227830840,St. Sarkis Armenian Apostolic Church,place_of_worship,42.3299473,-83.2275168
+way,227831199,St. Clement Orthodox Church,place_of_worship,42.3302931,-83.2308120
+way,227831305,Warrendale Community Church,place_of_worship,42.3303818,-83.2319407
+way,229467997,Riverside Academy West,school,42.3369662,-83.1778511
+way,229468332,Islamic Institute of Knowledge,place_of_worship,42.3364368,-83.1776794
+way,230777546,Our Lady of the Assumption Catholic Church,place_of_worship,42.3073534,-83.0696992
+way,231874429,Carver School,school,42.4490740,-83.1649616
+way,233057582,,place_of_worship,42.3094959,-83.0695008
+way,239372086,First Presbyterian Church - Dearborn,place_of_worship,42.3176788,-83.2428905
+way,241731047,First United Methodist Church,place_of_worship,42.3069760,-83.2471150
+way,246535740,Oakland Avenue Missionary Baptist Church,place_of_worship,42.3670590,-83.0663142
+way,256787205,First Fellowship Baptist Church,place_of_worship,42.3516063,-83.0837250
+way,257535097,Greater Faith Missionary Baptist Church,place_of_worship,42.3474265,-83.0807213
+way,257650415,Still Point Zen Buddhist Temple,place_of_worship,42.3478674,-83.0766062
+way,259435546,Jones Memorial Church of God and Christ,place_of_worship,42.4310755,-83.2383214
+way,262817366,Faith Memorial Lutheran Church,place_of_worship,42.3452635,-83.0751594
+way,263443786,Ralph J. Bunche Academy,school,42.2579541,-83.1541389
+way,268505074,St. Mary's Anglican Church,place_of_worship,42.3199112,-83.0100129
+way,277724412,École élémentaire L'Envolée,school,42.3112581,-83.0069485
+way,277725120,King Edward Public School,school,42.3195287,-83.0128257
+way,288142124,Perfecting Church,place_of_worship,42.4333438,-83.1142597
+way,288262552,Fountain of Life Missionary Baptist Church,place_of_worship,42.4236546,-83.1017240
+way,288392054,Nolan Family Health Center,clinic,42.4319968,-83.1041664
+way,288403155,Old Solid Rock Missionary Baptist Church,place_of_worship,42.4177005,-83.0975344
+way,288579755,Truth Missionary Baptist Church,place_of_worship,42.4224811,-83.0948663
+way,288579756,Davison Missionary Baptist Church,place_of_worship,42.4204144,-83.1010416
+way,288579757,Wings of Love Missionary Baptist Church,place_of_worship,42.4184496,-83.1022061
+way,288579758,God's Holy Temple Church,place_of_worship,42.4180221,-83.1030256
+way,288580743,Goodwill Community Church,place_of_worship,42.4324573,-83.1069629
+way,288727343,Highland Park Head Start,school,42.3956019,-83.0963506
+way,288734431,Triumphant Life Christian Church,place_of_worship,42.3975024,-83.1079333
+way,288735455,Highland Park Renaissance Academy Barber Campus,school,42.4018285,-83.0923312
+way,288834598,Notre Dame Catholic School,school,42.2691390,-83.0355650
+way,288834724,Bellewood Public School,school,42.2675801,-83.0402661
+way,288836347,,place_of_worship,42.2693449,-83.0340905
+way,291964909,Glenwood United Church,place_of_worship,42.2654704,-83.0305635
+way,291965644,Grace & Truth Chapel,place_of_worship,42.2758939,-83.0231900
+way,293484508,John Campbell Public School,school,42.2989645,-83.0058304
+way,293485384,St. John Vianney Catholic Church,place_of_worship,42.3378628,-82.9407923
+way,293776688,,clinic,42.4083526,-82.9947375
+way,293776689,Community Christian Fellowship Ministries,place_of_worship,42.4074598,-82.9941400
+way,293896170,St. Philiphe Minh and St. Ane Thanh Church,place_of_worship,42.2911943,-83.0482577
+way,294780915,King Solomon Missionary Baptist Church,place_of_worship,42.3597779,-83.0922906
+way,294780916,King Solomon Missionary Baptist Church,place_of_worship,42.3596616,-83.0930419
+way,302745912,Trix Elementary-Middle School,school,42.4451369,-82.9840153
+way,304114555,Devonwood Community Church of the Nazarene,place_of_worship,42.2742803,-82.9819272
+way,307764650,Trombly Elementary School,school,42.3723541,-82.9314976
+way,308970678,DMC Sinai-Grace Professional Building,clinic,42.4197839,-83.1810014
+way,309654234,Isaac Agree Downtown Synagogue,place_of_worship,42.3344452,-83.0501239
+way,313128792,Second Evergreen Missionary Baptist Church,place_of_worship,42.3512462,-83.0130743
+way,313128804,Calvary Baptist Church,place_of_worship,42.3447806,-83.0181594
+way,313983817,Saint Alphonsus Church,place_of_worship,42.3464116,-83.1762222
+way,314035679,Islamic Center,place_of_worship,42.3574833,-83.1991376
+way,314035682,Saint Martha's Episcopal Church,place_of_worship,42.3574404,-83.2009422
+way,314048191,Assumption Grotto Catholic Church,place_of_worship,42.4279184,-82.9814297
+way,314048195,Total Christian Life Ministries,place_of_worship,42.4265982,-82.9842662
+way,315559909,1st Choice Urgent Care,clinic,42.3272857,-83.2705135
+way,315559925,Dearborn Covenant Church,place_of_worship,42.3192104,-83.2558525
+way,316618823,DMC Grand River Health Center,clinic,42.4071072,-83.2334634
+way,316618825,Pure Word Missionary Baptist Church,place_of_worship,42.4081994,-83.2383306
+way,316744987,Abyssian Baptist Church,place_of_worship,42.4188545,-83.2645050
+way,316744990,Christian Fellowship of Love Baptist Church,place_of_worship,42.4190095,-83.2628040
+way,316744997,St. Martin's Episcopal Church,place_of_worship,42.4270491,-83.2860980
+way,316896188,Redford Evangelical Lutheran Church,place_of_worship,42.4165636,-83.2603254
+way,317468378,Abundant Life Tabernacle,place_of_worship,42.3416963,-83.2154790
+way,317468379,New Hope Church of the Nazarene,place_of_worship,42.3476079,-83.2156715
+way,317468380,New Providence Baptist Church,place_of_worship,42.3704226,-83.2180676
+way,319198472,Parkside Church of Christ,place_of_worship,42.3358120,-83.2624565
+way,320407156,St. Florian Church,place_of_worship,42.3940081,-83.0587318
+way,321843213,Park Medical Center,clinic,42.4466068,-82.9696382
+way,322381962,Tel-Ford Medical Walk In Clinic,clinic,42.3263327,-83.2720881
+way,322661271,DMC Sports Medicine and Orthopedic,clinic,42.3262886,-83.2861644
+way,323485267,Judah Temple,place_of_worship,42.3535776,-83.0136422
+way,323566829,New Covenant Church International,place_of_worship,42.3419725,-83.2607388
+way,323729723,Body of Christ Christian Center,place_of_worship,42.3657665,-83.2051211
+way,324117920,Corpus Christi Catholic Church,place_of_worship,42.4370973,-83.2382765
+way,325120149,Kingdom Builders Christian Church,place_of_worship,42.3573539,-83.2669159
+way,325386520,Henderson Academy,school,42.3642249,-83.2050573
+way,325715111,Evergreen Lutheran Church,place_of_worship,42.3569355,-83.2355146
+way,326310973,Macedonia Baptist Church,place_of_worship,42.3908139,-83.2186287
+way,326962509,Detroit Christian Schools of Excellence,school,42.4200130,-83.2004455
+way,326962512,Greenfield Peace Lutheran Church,place_of_worship,42.4199713,-83.1991089
+way,327007811,St. Timothy Church United Methodist,place_of_worship,42.4078899,-83.2159520
+way,327153434,Greater Mitchell Temple Church of God in Christ,place_of_worship,42.4234706,-83.1819029
+way,327153435,Greater St. Mark Missionary Baptist Church,place_of_worship,42.4004087,-83.1696125
+way,327153440,New Greater Cedar Grove Baptist Church,place_of_worship,42.3995789,-83.1689717
+way,327173248,Dexter Avenue Baptist Church,place_of_worship,42.3902917,-83.1307264
+way,327351360,Believing Church of God in Christ,place_of_worship,42.4027289,-83.1304246
+way,327351361,Fenkell Gospel Temple-Church of God in Christ,place_of_worship,42.4031824,-83.1276481
+way,327574095,Corewell Health Dearborn Hospital,hospital,42.2898947,-83.2147461
+way,327698893,Messiah Missionary Baptist Church of Detroit,place_of_worship,42.3666893,-83.1416636
+way,327698899,Obedient Missionary Baptist Church,place_of_worship,42.3668001,-83.1396757
+way,327698902,Physical Therapy Clinic,clinic,42.3706520,-83.0991281
+way,327698903,Virginia Park Medical Center,clinic,42.3705239,-83.0995808
+way,327893366,Holy Saviour Missionary Baptist Church,place_of_worship,42.4026482,-83.1325899
+way,328265185,Eternal Purpose Ministries,place_of_worship,42.4376396,-83.2639895
+way,328265188,Lodge Elementary School (former),school,42.4188889,-83.2808175
+way,328295337,Greater Commission Fellowship Church,place_of_worship,42.4313600,-83.2750870
+way,328492820,Historic St. James Missionary Baptist Church,place_of_worship,42.4334651,-83.2381294
+way,328562414,DMC Sinai-Grace Hospital,hospital,42.4185226,-83.1823876
+way,328735388,St. John Hospital and Medical Center,hospital,42.4201354,-82.9138531
+way,330079973,St Kateri Tekakwitha,place_of_worship,42.3026491,-83.1936825
+way,330298873,Sweetest Heart of Mary,place_of_worship,42.3582587,-83.0477924
+way,330354918,Sacred Heart Catholic Church,place_of_worship,42.3048420,-83.2516476
+way,330355618,Parish Hall,place_of_worship,42.3051947,-83.2519262
+way,331225699,,place_of_worship,42.4186870,-83.1384340
+way,331382459,Stellwagen Early Learning Center,school,42.4048380,-82.9483775
+way,331571512,New St. Paul Tabernacle Church of God in Christ,place_of_worship,42.4024926,-83.2175416
+way,331573564,Thomas Edison Elementary School,school,42.3971499,-83.2137874
+way,332172715,St. Ladislaus Church,place_of_worship,42.3991991,-83.0608171
+way,338118319,Detroit Community Schools,school,42.3803978,-83.2475568
+way,338118323,Kadesh Missionary Baptist Church,place_of_worship,42.3703752,-83.2398428
+way,338118327,True Love Evangelistic Ministries,place_of_worship,42.3716137,-83.2414764
+way,347620147,Fisher Magnet Lower Academy,school,42.4419700,-82.9620494
+way,347620148,Fisher Magnet Upper Academy,school,42.4374896,-82.9618949
+way,347620149,Golightly Career and Technical Center,school,42.3695989,-82.9517316
+way,347620153,The Church of Jesus Christ of Latter-day Saints,place_of_worship,42.3852067,-82.9683749
+way,348412001,Earhart Elementary-Middle School,school,42.3158267,-83.0894663
+way,352670207,Masjid Al-Fatiha,place_of_worship,42.3399954,-83.0636669
+way,353556494,Deliverance Center,place_of_worship,42.3193586,-83.0860183
+way,353558041,This Rock,place_of_worship,42.3211779,-83.0872105
+way,361259715,Christian Church of Allen Park,place_of_worship,42.2561080,-83.2174529
+way,361492366,Allen Park Church of Christ,place_of_worship,42.2762280,-83.2063888
+way,361492370,Gilead Baptist Church,place_of_worship,42.2758328,-83.2051332
+way,361492373,Mount Hope Lutheran,place_of_worship,42.2724243,-83.2202588
+way,361492374,Mount Hope School,school,42.2727928,-83.2200101
+way,361643547,Guardian Lutheran Church,place_of_worship,42.3063523,-83.2522771
+way,361779730,Corewell Health Medical Building - Dearborn,clinic,42.2932919,-83.2119651
+way,362055784,Evangelical Baptist Church,place_of_worship,42.2816311,-83.1809489
+way,364216687,The Dearborn Hills Surgical Institute,doctors,42.2991429,-83.2769770
+way,364216696,Dearborn Family Physicians,doctors,42.3005408,-83.2699876
+way,364216705,Westborn Medical Clinic,clinic,42.2999956,-83.2694886
+way,364216707,,doctors,42.2989755,-83.2776693
+way,364216713,Dermatologist Institute of Detroit,doctors,42.2985681,-83.2808526
+way,367899663,Old YMCA,,42.3188869,-83.0953617
+way,367901229,Iglesia Lutherana Pan de Vida,place_of_worship,42.3167228,-83.0945752
+way,367905111,Maybury Elementary School,school,42.3167015,-83.0939725
+way,368975915,The Muslim Center,place_of_worship,42.3968182,-83.1110833
+way,369284006,Basilica of Sainte Anne,place_of_worship,42.3205462,-83.0765990
+way,369605746,Holy United Trinity Church,place_of_worship,42.3239338,-83.0756813
+way,369610777,,place_of_worship,42.3301129,-83.0791837
+way,369953021,Messiah Church,place_of_worship,42.3259191,-83.0920201
+way,370223886,Vinewood Church of Christ,place_of_worship,42.3227821,-83.0912464
+way,370271781,First Latin American Baptist Church,place_of_worship,42.3225901,-83.0948061
+way,370284545,Clippert Multicultural Magnet Honors Academy,school,42.3204001,-83.0984356
+way,371836380,St. Peter's Episcopal Church,place_of_worship,42.3309952,-83.0662224
+way,371984274,The Church of Jesus Christ of Latter-day Saints,place_of_worship,42.3335362,-83.0772811
+way,372147003,Detroit Catholic Worker Day House,place_of_worship,42.3363363,-83.0693366
+way,372548632,Sharon Missionary Baptist Church,place_of_worship,42.3409922,-83.0771470
+way,372667235,United Kingdom and Missionary Baptist Church,place_of_worship,42.3447190,-83.0852745
+way,372667236,C.H.A.N.G.E. Ministries,place_of_worship,42.3453570,-83.0841875
+way,372667237,Faithful Mount Triumph Church,place_of_worship,42.3441366,-83.0883379
+way,373556127,New Life Christian Ministries,place_of_worship,42.3457778,-83.0875585
+way,373557950,Greater Saint James Fire Baptised Holiness Church of God of the Americas,place_of_worship,42.3407592,-83.0876422
+way,373558001,Shalom Fellowship International,place_of_worship,42.3433376,-83.0838385
+way,374512153,Zion Chapel Church of Christ Holiness U.S.A.,place_of_worship,42.3322994,-83.0921008
+way,374655930,Clinton Chapel A.M.E.,place_of_worship,42.3349821,-83.0933360
+way,375029905,New Starlight Baptist Church,place_of_worship,42.3344949,-83.0964702
+way,375031385,Williams Street Church of God In Christ,place_of_worship,42.3370677,-83.0921001
+way,375031431,Spiritual Israel Church and its Army,place_of_worship,42.3384320,-83.0968417
+way,375163632,Church of Jesus Christ,place_of_worship,42.3156114,-83.0959819
+way,375478664,Apos,place_of_worship,42.3105039,-83.0932220
+way,377811314,Elite Health,clinic,42.3161705,-83.1053941
+way,377816046,Courage Church,place_of_worship,42.3163959,-83.1077737
+way,377819190,Military Ave Church,place_of_worship,42.3099041,-83.1021202
+way,378081060,Pentecostal Temple Baptist Church,place_of_worship,42.3121026,-83.1069832
+way,378766077,Power Tower Church of God in Christ,place_of_worship,42.3725877,-83.0451111
+way,378783770,Saint Albertus Church,place_of_worship,42.3597949,-83.0418917
+way,378783911,Maclin Temple Church of God in Christ,place_of_worship,42.3634415,-83.0406043
+way,378783914,New Friendly Missionary Baptist Church,place_of_worship,42.3643268,-83.0401078
+way,378788556,Sweet Kingdom Missionary Baptist Church,place_of_worship,42.3601626,-83.0367638
+way,378793650,Morningstar Missionary Baptist Church,place_of_worship,42.3581205,-83.0293111
+way,378804966,Ephesian Tabernacle Church of God in Christ,place_of_worship,42.3601819,-83.0237588
+way,378805092,Bethel Church of the Apostolic Faith,place_of_worship,42.3597504,-83.0265613
+way,378831288,Greater Mountain View Missionary Baptist Church,place_of_worship,42.3653014,-83.0249457
+way,378838397,Saint Elizabeth's School,school,42.3630128,-83.0325277
+way,378838411,Holy Tabernacle Baptist Church,place_of_worship,42.3637086,-83.0314717
+way,379119742,Iglesia Adventista del Séptimo Dia,place_of_worship,42.3118861,-83.1027688
+way,379392463,New Salem Baptist Church,place_of_worship,42.3570167,-83.0370401
+way,379394709,Saint Luke Missionary Baptist Church,place_of_worship,42.3639322,-83.0379634
+way,379399411,St. Paul AME Church,place_of_worship,42.3509515,-83.0315772
+way,379399469,Pittman Memorial Church of God in Christ,place_of_worship,42.3529659,-83.0327151
+way,379416797,East Vernor Church of God in Christ,place_of_worship,42.3538627,-83.0201577
+way,379416840,Shady Grove Missionary Baptist Church,place_of_worship,42.3537401,-83.0272030
+way,379485638,Free Indeed Ministries Church International,place_of_worship,42.3547247,-83.0344221
+way,379485640,Zion Congregational Church of God in Christ,place_of_worship,42.3556377,-83.0376928
+way,379485645,Loyal Temple Missionary Baptist Church,place_of_worship,42.3551667,-83.0335289
+way,379485681,Church of the Living God,place_of_worship,42.3554015,-83.0361720
+way,379485688,People's Missionary Baptist Church,place_of_worship,42.3551154,-83.0272560
+way,379487352,Williams Chapel Missionary Baptist Church,place_of_worship,42.3567536,-83.0250808
+way,379487479,Temple el Calvario,place_of_worship,42.3186212,-83.1054215
+way,380018014,Iglesia de Dios Pentecostal,place_of_worship,42.3180800,-83.1006757
+way,380134445,First Union Missionary Baptist Church,place_of_worship,42.3689655,-83.0470708
+way,380136191,Christian Love Missionary Baptist Church,place_of_worship,42.3745752,-83.0365357
+way,380141478,St. Hyacinth Church,place_of_worship,42.3693988,-83.0364273
+way,380145586,The Living Word Community Church,place_of_worship,42.3746929,-83.0390338
+way,380154432,ReGeneration Church,place_of_worship,42.3769535,-83.0359829
+way,380156605,Holy Ghost Cathedral,place_of_worship,42.3757174,-83.0334539
+way,380157696,Detroit Cristo Rey High School,school,42.3165758,-83.1020757
+way,380520654,Buelah First Baptist Church,place_of_worship,42.3661975,-83.0303897
+way,380521301,Israel of God's Church,place_of_worship,42.3675085,-83.0300643
+way,380522048,Word of Truth #2,place_of_worship,42.3708736,-83.0281330
+way,380522049,Free Indeed Outreach Ministry,place_of_worship,42.3685708,-83.0268672
+way,381076631,Holy Family Church,place_of_worship,42.3344100,-83.0380084
+way,381545065,Greater East Side Unity Memorial Church Of God In Christ,place_of_worship,42.3736241,-83.0300474
+way,381562219,Greater Saint Peter's AME Zion Church,place_of_worship,42.3665388,-83.0247059
+way,381562347,,clinic,42.3670871,-83.0228738
+way,381573143,Church of the Living God,place_of_worship,42.3815611,-83.0249709
+way,381573146,East Grand Boulevard Church of God in Christ,place_of_worship,42.3802154,-83.0235375
+way,381587794,Christ's Mission Missionary Baptist Church,place_of_worship,42.3597645,-83.0213291
+way,381591529,Mount Elliot Church,place_of_worship,42.3602736,-83.0204630
+way,381591584,House of God Church,place_of_worship,42.3579106,-83.0188558
+way,381597828,Church of God Gospel Mission,place_of_worship,42.3546255,-83.0201384
+way,382132013,St. John Cantius,place_of_worship,42.2896659,-83.1225549
+way,382605564,Zion Lutheran Church,place_of_worship,42.3320856,-83.1199480
+way,383210979,University Prep Science & Math Elementary - Sidney D. Miller Campus,school,42.3480720,-83.0304971
+way,383374553,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.3413331,-83.0509621
+way,383542089,Plymouth Educational Center,school,42.3600888,-83.0471610
+way,383898910,Saint John and Saint Luke United Church of Christ,place_of_worship,42.3432997,-83.0380401
+way,384409657,Allen Temple Church,place_of_worship,42.3675711,-83.0172405
+way,384409694,Universal Liberty in Christ Temple,place_of_worship,42.3687492,-83.0173276
+way,384413073,,place_of_worship,42.3656767,-83.0162366
+way,385386949,Ford Memorial United Methodist Church,place_of_worship,42.3439551,-83.2059269
+way,385386950,,place_of_worship,42.3688441,-82.9599216
+way,385455532,Palmer School (former),school,42.2730846,-83.1819058
+way,386846167,Renaissance Baptist Church,place_of_worship,42.3704601,-83.0177280
+way,391970457,City Covenant Church,place_of_worship,42.3855411,-83.2406315
+way,391970460,Detroit Bible Tabernacle,place_of_worship,42.3720673,-83.1519795
+way,391970464,Hope Community Church,place_of_worship,42.3728553,-82.9433922
+way,391970466,Love of Christ Christian Center,place_of_worship,42.4325656,-83.1613182
+way,391970468,New Mt. Sinai Missionary Baptist Church,place_of_worship,42.4329494,-83.1612849
+way,391970471,The Bridge Covenant Church,place_of_worship,42.3434313,-83.2315428
+way,391970472,Word of Light Christian Center,place_of_worship,42.3579211,-83.2314809
+way,393501890,Saint Maria Goretti Catholic School,school,42.2814567,-83.2400904
+way,393505699,3736 Pelham Medical Center,clinic,42.2838093,-83.2321515
+way,394427305,Bedford Elementary School,school,42.2762861,-83.2250511
+way,394708414,Greater Mt Carmel Baptist Church,place_of_worship,42.3642094,-83.0142414
+way,394710705,Miles Fellowship Baptist Church,place_of_worship,42.3671509,-83.0129118
+way,394710728,Divine Temple of Mental Science,place_of_worship,42.3655256,-83.0107168
+way,394711849,Genesis Lutheran Church,place_of_worship,42.3642159,-83.0124046
+way,395890773,Trinity Deliverance Church,place_of_worship,42.3633123,-83.0117307
+way,396109066,Wesley Chapel Missionary Baptist Church,place_of_worship,42.3535169,-83.0105997
+way,396109140,Galilee Tree of Life Missionary Baptist Church,place_of_worship,42.3555284,-83.0044492
+way,396272978,Church of the Messiah,place_of_worship,42.3504045,-83.0046867
+way,396273057,Immanuel House of Prayer,place_of_worship,42.3484361,-83.0034015
+way,396306749,Dr. Sophie J. Womack Eastside Health Center,clinic,42.3576296,-83.0004776
+way,396487077,Oakley W. Best Middle School,school,42.2724541,-83.2545617
+way,396487104,,school,42.2942598,-83.2158179
+way,396812979,,clinic,42.3508322,-82.9982301
+way,396813095,St. Charles Borromeo Roman Catholic Church,place_of_worship,42.3551105,-83.0019986
+way,396813105,Zion Progress Missionary Baptist Church,place_of_worship,42.3528698,-82.9978419
+way,397505083,Jefferson Avenue Presbyterian Church,place_of_worship,42.3553887,-82.9898637
+way,397513397,Celestial Tabernacle Baptist Church,place_of_worship,42.3602903,-82.9866717
+way,397513520,Greater Shield of Faith Baptist Church,place_of_worship,42.3587033,-82.9893593
+way,397515795,Cathedral Conference Center,place_of_worship,42.3631317,-82.9796293
+way,397515847,New Mount Vernon Baptist Church,place_of_worship,42.3599471,-82.9735796
+way,399290002,Tennessee Missionary Baptist Church,place_of_worship,42.3614297,-82.9929241
+way,399290003,Allen Temple Christian Methodist Episcopal Church,place_of_worship,42.3633293,-82.9882535
+way,399291462,Greater Rose of Sharon Church,place_of_worship,42.3633533,-83.0013390
+way,399291522,Temple of God Deliverance Church,place_of_worship,42.3651213,-82.9940147
+way,399291542,New Canaan Baptist Church,place_of_worship,42.3663797,-82.9928751
+way,399291599,Iroquois Avenue Christ Lutheran Church,place_of_worship,42.3622594,-82.9979273
+way,399294169,Mt. Zion Baptist Church,place_of_worship,42.3674568,-83.0059098
+way,399294183,Greater Macedonia Baptist Church,place_of_worship,42.3676876,-83.0036684
+way,399294330,Excellent Priase Worship Center,place_of_worship,42.3676038,-83.0050877
+way,399294407,Greater Christ Baptist Church,place_of_worship,42.3684981,-83.0011285
+way,400270675,Christian Liberty Baptist Church,place_of_worship,42.3691239,-82.9915971
+way,400277114,Flame of Fire House of Prayer Ministries,place_of_worship,42.3651193,-82.9842031
+way,400277800,Pure in Heart Baptist Church,place_of_worship,42.3689078,-82.9950050
+way,404380346,Quest Charter Academy,school,42.2662884,-83.2787699
+way,405711432,New Christian Missionary Baptist Church,place_of_worship,42.3687001,-82.9748750
+way,405711436,St. Stephens Missionary Baptist Church,place_of_worship,42.3700191,-82.9775329
+way,405711446,True Light Baptist Church,place_of_worship,42.3713701,-82.9746255
+way,405712820,Church of Our Faith Missionary Baptist Church,place_of_worship,42.3718690,-82.9757953
+way,405721750,Saint Maron Cathedral,place_of_worship,42.3691987,-82.9713752
+way,405723145,Spiritual Israel Church and Its Army,place_of_worship,42.3644084,-82.9869314
+way,405794659,Legacy Charter Academy,school,42.4287930,-83.0541760
+way,407269301,Whitmore-Bolles Elementary School,school,42.2885793,-83.2486317
+way,407487377,Howard Elementary School,school,42.3224418,-83.2661516
+way,408061905,Revelation Church of Holiness,place_of_worship,42.3694874,-82.9993264
+way,408252109,,school,42.3568642,-83.1920875
+way,408252114,New Testabment Church of God in Christ,place_of_worship,42.3579274,-83.1919343
+way,408490460,Willis Temple Church of God in Christ,place_of_worship,42.3704164,-82.9989215
+way,408751915,Fordson High School,school,42.3313187,-83.1783558
+way,408780940,Second Timothy Baptist Church,place_of_worship,42.3764768,-83.0108484
+way,408781432,Mt. Calvary Missionary Baptist Church,place_of_worship,42.3756371,-83.0077287
+way,408782344,Triumph Perfecting Church,place_of_worship,42.3742771,-83.0030012
+way,408958572,Bethesda Missionary Baptist Church of David Street,place_of_worship,42.3745825,-83.0013304
+way,409004427,New Welcome Baptist Church,place_of_worship,42.3828242,-83.0104192
+way,409004679,Divine Deliverance Outreach Ministries,place_of_worship,42.3832417,-83.0094129
+way,409049765,Dearborn Congregational Church,place_of_worship,42.3027291,-83.1974287
+way,409130500,Good Hope Missionary Baptist Church of Detroit,place_of_worship,42.4348433,-82.9999847
+way,409130502,Open Door Church of God in Christ,place_of_worship,42.4349893,-82.9978953
+way,409130503,New Beginnings Baptist Church,place_of_worship,42.4344622,-82.9976763
+way,409130505,True Rock Church,place_of_worship,42.4212482,-83.0021364
+way,409618210,Wayside Missionary Baptist Church,place_of_worship,42.3796094,-83.0029576
+way,409621828,Christian Faith Tabernacle Church,place_of_worship,42.3786997,-82.9984648
+way,409621877,Detroit Mount Neby Missionary Church,place_of_worship,42.3795659,-82.9973274
+way,409622940,Bethlehem Temple Church of Detroit,place_of_worship,42.3868983,-83.0010240
+way,409623296,Setfree International Ministries,place_of_worship,42.3844222,-82.9993932
+way,409624632,Burns Seventh Day Adventist Church,place_of_worship,42.3831292,-82.9965426
+way,409624665,Christian Light Missionary Baptist Church,place_of_worship,42.3799140,-82.9953557
+way,409625481,New Zion Missionary Baptist Church,place_of_worship,42.3788059,-82.9926094
+way,410109877,Restore Church,place_of_worship,42.3726880,-83.1102844
+way,410109894,New Bethel Baptist Church,place_of_worship,42.3679544,-83.1047061
+way,410383830,Dedicated Senior Medical Center,doctors,42.3545505,-83.2755496
+way,410395370,Prince of Peace Baptist Church,place_of_worship,42.3892957,-83.1192164
+way,410395373,New Greater First Baptist Church,place_of_worship,42.3871728,-83.1184399
+way,410395442,St. Andrew AME Church,place_of_worship,42.3879529,-83.1189902
+way,411821524,Missionary Baptist Church,place_of_worship,42.3714007,-82.9887626
+way,411821550,Trinity Hope Tabernacle,place_of_worship,42.3733042,-82.9908754
+way,411821582,New Mt. Moriah Church,place_of_worship,42.3728786,-82.9907238
+way,411821622,Saunders Memorial AME Church,place_of_worship,42.3729950,-82.9915587
+way,411828915,Coggins Memorial Christian Methodist Episcopal Church,place_of_worship,42.3824254,-82.9950846
+way,412518900,Mack Ave Community Church,place_of_worship,42.3763776,-82.9861886
+way,412522422,New Rising Star Missionary Baptist Church,place_of_worship,42.3763267,-82.9854837
+way,412522490,Highest Praise Church of God in Christ,place_of_worship,42.3763406,-82.9840863
+way,412522500,Vangaurd Family Health Care P.C.,doctors,42.3770965,-82.9836839
+way,412526622,Christ Cornerstone Missionary Baptist Church,place_of_worship,42.3775321,-82.9827145
+way,412526624,Apostolic Way Church of God,place_of_worship,42.3726661,-82.9774874
+way,412578519,Haigh Elementary School,school,42.3158208,-83.2826441
+way,414488911,Saint Bernard of Clairvaux Roman Catholic Church,place_of_worship,42.3783761,-82.9812929
+way,414491399,Siloam Missionary Baptist Church,place_of_worship,42.3759821,-82.9777272
+way,415139757,Faith Temple Baptist Church,place_of_worship,42.3845998,-82.9901792
+way,415140381,Apostle Paul Missionary Baptist Church,place_of_worship,42.3824386,-82.9835092
+way,415872360,Trinity Memorial Missionary Baptist Church,place_of_worship,42.3892175,-82.9909867
+way,415873656,New Welcome Missionary Baptist Church,place_of_worship,42.3873034,-82.9927614
+way,415875275,Sardis Missionary Baptist Church,place_of_worship,42.3839646,-82.9932356
+way,415878702,Nativity of Our Lord Church,place_of_worship,42.3883990,-83.0050303
+way,416205144,New Mount Carmel Tabernacle Church of God in Christ,place_of_worship,42.3925915,-83.0047808
+way,416205161,Jesus Christ is Our Lord Church,place_of_worship,42.3930297,-83.0042112
+way,416711942,Greater New Hope Baptist Church of Detroit,place_of_worship,42.3810836,-83.0159058
+way,416748805,Gratiot Avenue Presbyterian Church,place_of_worship,42.3845340,-83.0114746
+way,416766984,Tree of Life Metropolitan Baptist Church,place_of_worship,42.3898266,-83.0086723
+way,416769832,New Mount Zion Church of God in Christ,place_of_worship,42.3867932,-83.0240115
+way,416771213,New Galilee Spirtual Church,place_of_worship,42.3884039,-83.0210576
+way,417062996,True Light Temple,place_of_worship,42.3907761,-83.0136308
+way,417063118,Second Mount Carmel Missionary Baptist Church,place_of_worship,42.3896154,-83.0165390
+way,417957796,Safe Hope Church of God in Christ,place_of_worship,42.3664885,-82.9582010
+way,422691496,2nd Mount Zion of the Apostolic Faith Church,place_of_worship,42.3760848,-83.0656499
+way,422696410,Nazarene Baptist Church,place_of_worship,42.3800595,-83.0684128
+way,422696449,The Pentecostal Church of God,place_of_worship,42.3892410,-83.0707155
+way,422696464,St John Evangelist Temple Of Truth And School Of Wisdom,place_of_worship,42.3876751,-83.0735504
+way,422696500,Church of Christ,place_of_worship,42.3781233,-83.0650463
+way,422696503,Cathedral of Hope Ministries,place_of_worship,42.3871142,-83.0704418
+way,422696535,Abundant Life Faith Temple,place_of_worship,42.3880920,-83.0710477
+way,422696593,Full Gospel Tabernacle Church of God in Christ,place_of_worship,42.3851591,-83.0717619
+way,422826546,Washington-Parks Academy,school,42.3729423,-83.2728386
+way,424169937,Greater Ephesian Baptist Church,place_of_worship,42.3877109,-83.0740967
+way,424169961,Greater New Mount Moriah Baptist Church,place_of_worship,42.3853376,-83.0739861
+way,424191415,Original Primitive Baptist Church,place_of_worship,42.3734518,-82.9410754
+way,424191416,Saint John's Congregational Church,place_of_worship,42.3782107,-82.9485709
+way,424199394,Abundant Faith Cathedral,place_of_worship,42.3796972,-82.9444078
+way,424376865,Saint Hilary's School (closed),school,42.3678408,-83.2733280
+way,431799771,Southwest Counseling Solutions Waterman Outpatient Clinic,clinic,42.3123534,-83.1133243
+way,432046186,Solvay Church of God in Christ,place_of_worship,42.2940244,-83.1151321
+way,432046187,New Greater Love Missionary Baptist Church,place_of_worship,42.2930299,-83.1165820
+way,433598830,,clinic,42.3729783,-83.0718801
+way,433598831,,clinic,42.3731063,-83.0722045
+way,434376946,Jehova-Jireh Full Gospel Church,place_of_worship,42.2929597,-83.1227317
+way,434811963,True Light Church of God In Christ,place_of_worship,42.2933909,-83.1189334
+way,434811967,Holy Cross Catholic Church,place_of_worship,42.2937392,-83.1192791
+way,434932517,Trinity-Saint Mark's United Church of Christ,place_of_worship,42.2956375,-83.1300694
+way,435246995,Sweet Communion Church,place_of_worship,42.2929997,-83.1189561
+way,436803246,The House of God,place_of_worship,42.2926330,-83.1156962
+way,436928192,Jordan Missionary Baptist Church,place_of_worship,42.3691977,-82.9451916
+way,436933000,Precious Faith Church of God in Christ,place_of_worship,42.3778778,-82.9624760
+way,437061925,Kainos International Church,place_of_worship,42.3049306,-83.1083817
+way,437116919,First Missionary Baptist Church,place_of_worship,42.2956162,-83.1113831
+way,437565235,École élémentaire catholique Monseigneur Jean Noël,school,42.2595473,-83.0354190
+way,437565558,Corpus Christi Catholic Church,place_of_worship,42.2550855,-83.0198436
+way,438022625,Saint Paul AME Church,place_of_worship,42.3846176,-82.9451563
+way,438025993,First Christian Reformed Church,place_of_worship,42.3864744,-82.9442609
+way,438349690,El Buen Pastor United Methodist Church,place_of_worship,42.3094909,-83.1115422
+way,439869301,Centre for the Arts - St. Clair College,school,42.3188331,-83.0422026
+way,440008824,,school,42.4391919,-83.2702159
+way,440008833,Detroit Service Learning Academy,school,42.4283694,-83.2564899
+way,440008836,Madison-Carver Academy,school,42.4375692,-83.2627041
+way,440894210,Universal Hagar's Spritual Church Assocation National Headquarters,place_of_worship,42.2885298,-83.1493723
+way,440927947,Bethania Romanian Pentecostal Church,place_of_worship,42.3074214,-82.9695158
+way,440927955,St. Michael's Byzantine Catholic Church,place_of_worship,42.3017930,-82.9960881
+way,441544377,Southwestern Church of God,place_of_worship,42.2671593,-83.1635979
+way,442364924,St. Gabriel Catholic Church,place_of_worship,42.3111478,-83.1288924
+way,442364927,Clinica Medica Familiar,clinic,42.3113389,-83.1281099
+way,442364929,,doctors,42.3114106,-83.1278677
+way,442629444,Greater Deliverance Temple of Apostolic Faith Church,place_of_worship,42.4233131,-83.1023714
+way,442638103,Pentecostal House of God,place_of_worship,42.4233011,-83.0973297
+way,442708090,Spiritual Light Community Church,place_of_worship,42.2964410,-83.1309663
+way,442872860,Harms Elementary School,school,42.3143917,-83.1247577
+way,442872871,House of Truth,place_of_worship,42.3155810,-83.1269003
+way,442974920,Family of God,place_of_worship,42.3122861,-83.1236469
+way,442974944,Phoenix Academy,school,42.3075819,-83.1221712
+way,442983034,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.3078311,-83.1242832
+way,442983035,Palabra de Vida Paul the Apostle,place_of_worship,42.3077703,-83.1249965
+way,442983063,Springwells Medical Clinic,clinic,42.3103086,-83.1267381
+way,442983064,Springwells Baptist Church,place_of_worship,42.3105018,-83.1269339
+way,442984867,St. Stephen Lutheran Church,place_of_worship,42.3015217,-83.1279055
+way,443129388,Iglesia Cristiana de Avivamiento,place_of_worship,42.3041317,-83.1286211
+way,443129419,Grace in Action,place_of_worship,42.3055349,-83.1303705
+way,443129433,Free Penetcostal Holiness Church,place_of_worship,42.3065747,-83.1303642
+way,443129436,Harbor of Life Church,place_of_worship,42.3069395,-83.1312158
+way,443291784,Bennett Elementary School,school,42.3091836,-83.1296074
+way,443393173,Dearborn Free Methodist Church,place_of_worship,42.2918117,-83.2705737
+way,444080409,Hillcrest Elementary School,school,42.3451966,-83.2769667
+way,444121185,Ann Arbor Trail Magnet School,school,42.3477653,-83.2609746
+way,444342824,River Oaks Elementary School,school,42.3349640,-83.2434418
+way,445125552,Pine Grove Baptist Church,place_of_worship,42.2747606,-83.1532405
+way,445125553,Iglesia Cristiana La Gran Comisión,place_of_worship,42.2742471,-83.1563657
+way,445125568,New Heaven Missionary Baptist Church,place_of_worship,42.2720360,-83.1582726
+way,445410402,Mark Twain School for Scholars,school,42.2698408,-83.1627654
+way,445410408,New Mount Hermon MBC,place_of_worship,42.2620254,-83.1579470
+way,449410915,Cedar Grove Missionary Baptist Church,place_of_worship,42.4355746,-82.9673796
+way,449478648,New Mount Moriah International Church,place_of_worship,42.3382913,-83.1004957
+way,449478667,,clinic,42.3349705,-83.1014851
+way,454368718,Greater Saint Stephen Missionary Baptist Church,place_of_worship,42.3854173,-82.9619553
+way,454368806,Hicks Memorial Church of God in Christ,place_of_worship,42.3842359,-82.9645977
+way,454373078,Redeem Church of God in Christ,place_of_worship,42.3862632,-82.9572962
+way,454373240,Canfield Church of God,place_of_worship,42.3890950,-82.9658670
+way,455058275,St. Alphonsus Catholic Church,place_of_worship,42.3164216,-83.0364658
+way,455291547,Cathedral of Faith,place_of_worship,42.3868600,-83.2469621
+way,455291559,Samuel Gompers Elementary Middle School,school,42.3920561,-83.2461689
+way,455291561,Detroit Northwest Seventh-day Adventist Church,place_of_worship,42.3911645,-83.2472936
+way,455291562,Emmanuel PCL Christian Center,place_of_worship,42.3916219,-83.2475913
+way,455411062,North Central Windsor Catholic Family of Parishes,place_of_worship,42.3051303,-82.9844007
+way,455486976,Healy International Academy (closed),school,42.3821906,-83.2655304
+way,455591644,Cody High School,school,42.3604124,-83.2204174
+way,455591645,Mann Elementary School,school,42.3685842,-83.2343141
+way,455591646,Weatherby Elementary School,school,42.3747780,-83.2419108
+way,455591648,Dixon Educational Learning Academy,school,42.3544455,-83.2480646
+way,455591649,Westside Christian Academy,school,42.3654839,-83.2625137
+way,455699108,Cooke S.T.E.M. Academy,school,42.4090750,-83.2257045
+way,455699109,Pembroke Academy,school,42.4393122,-83.2058051
+way,455699111,Jalen Rose Leadership Academy,school,42.4419388,-83.1947595
+way,455837685,St. Jerome,place_of_worship,42.3019729,-82.9768491
+way,455841981,St. Theresa Church,place_of_worship,42.3094103,-82.9677380
+way,455843219,Sts. Cyril and Methodius,place_of_worship,42.3124435,-82.9914352
+way,456250582,Foreign Language Immersion and Cultural Studies School,school,42.4191288,-83.1908647
+way,457109716,Mae C Jemison Academy (closed),school,42.3350894,-83.2332072
+way,457109717,Henry Ford Elementary School,school,42.3179627,-83.2025417
+way,457109718,Geer Park Elementary,school,42.3147673,-83.1848714
+way,457109719,Edsel Ford High School,school,42.2898856,-83.2355569
+way,457109722,Dearborn High School,school,42.3079054,-83.2612628
+way,457318294,Noble School,school,42.3814167,-83.1553693
+way,457347384,Our Lady of Perpetual Help,place_of_worship,42.2831695,-83.0016595
+way,459681312,Our Lady of Guadeloupe,place_of_worship,42.3265512,-82.9765415
+way,461103863,Inter-City Baptist Church,place_of_worship,42.2681732,-83.1980681
+way,465618101,DEPSA Athletic Fields,school,42.3578813,-83.0343316
+way,465618107,Abundant Faith Cathedral,place_of_worship,42.3680368,-83.0656137
+way,465924609,Burbank Middle School (closed),school,42.4423037,-82.9596371
+way,465935969,Beulah Brewer Academy,school,42.4286581,-82.9637995
+way,465935970,Charity Lutheran Church,place_of_worship,42.4282193,-82.9571590
+way,465935971,Denby High School,school,42.4251785,-82.9580620
+way,465939698,Heavenly Light Missionary Baptist Church,place_of_worship,42.3933058,-83.0230159
+way,465939699,St. Joseph Missionary Baptist Church,place_of_worship,42.3925123,-83.0229801
+way,465939701,Jude Missionary Baptist Church,place_of_worship,42.3954303,-83.0224688
+way,466071087,Brenda Scott Academy,school,42.4296298,-83.0019363
+way,466071089,Osborn High School,school,42.4326656,-83.0020851
+way,466071090,Turning Point Academy,school,42.4300688,-82.9989780
+way,466081602,McGregor Elementary School (closed),school,42.4469979,-82.9519006
+way,466081645,Pulaski Elementary-Middle School,school,42.4410142,-82.9994345
+way,467581115,St. Fancis of Assisi,place_of_worship,42.3053108,-82.9979660
+way,468552736,Greater Christ Temple,place_of_worship,42.4474245,-83.1220816
+way,468566987,Global Heights Academy,school,42.3556919,-83.2711281
+way,469543128,St. Albert the Great Catholic Church,place_of_worship,42.2757986,-83.2594781
+way,469649151,Holy Trinity Church,place_of_worship,42.3067756,-83.0141842
+way,482694720,Dr. Alex West,doctors,42.2701471,-83.2303124
+way,485446988,Saint Martha's Church,place_of_worship,42.2932786,-83.2131912
+way,485525254,Snow Elementary School,school,42.2874731,-83.2241475
+way,485973195,,place_of_worship,42.2686688,-83.1995089
+way,485973197,,school,42.2695200,-83.1996180
+way,486249042,The Road Church,place_of_worship,42.2576968,-83.1998650
+way,488937448,Sandwich First Baptist Church,place_of_worship,42.2918434,-83.0803126
+way,490315779,St. Peter Claver Parish,place_of_worship,42.4135514,-83.1772793
+way,490315807,West Seven Mile Congregational Church of God in Christ,place_of_worship,42.4308695,-83.1653151
+way,490322580,Paul Robeson Academy (former),school,42.4000918,-83.1304596
+way,490553511,,school,42.3824649,-83.1125943
+way,490553522,Louisiana Homes School,school,42.3859954,-83.1074552
+way,490553529,Woods Cathedral Church of God in Christ,place_of_worship,42.3866362,-83.1068570
+way,491689422,Vandenberg Elementary School,school,42.3594073,-83.2836935
+way,491689425,Fisher Elementary School,school,42.3668739,-83.2883818
+way,492676175,All Nation Church of God in Christ,place_of_worship,42.4288900,-83.2002099
+way,493148074,,place_of_worship,42.2817817,-83.1714228
+way,494105644,Mt. Pleasant Church,place_of_worship,42.4226411,-82.9260668
+way,499194935,,place_of_worship,42.2864869,-83.1748537
+way,499430125,,place_of_worship,42.2805420,-83.1818988
+way,499430126,,place_of_worship,42.2802996,-83.1819555
+way,506312353,Windsor Mosque,place_of_worship,42.2774203,-83.0320469
+way,511070082,Nichols Elementary-Middle School,school,42.3666946,-82.9981292
+way,518461312,Academy of Oak Park,school,42.4501346,-83.1650105
+way,520798109,Revival Harvest Church,place_of_worship,42.3067590,-82.9749688
+way,520798151,Peace Lutheran Church,place_of_worship,42.3066050,-82.9743040
+way,522722862,Michael Berry Career Center,school,42.3403485,-83.2602150
+way,528560714,St. George's Romanian Orthodox Church,place_of_worship,42.3017830,-82.9986640
+way,528560994,Turner Road Bible Chapel,place_of_worship,42.3019239,-82.9951272
+way,529807317,Carver STEM Academy,school,42.3352303,-83.2234626
+way,530124137,École élémentaire catholique Saint-Edmond,school,42.2900252,-83.0473999
+way,536445786,Rogers Early Elementary School,school,42.2719034,-83.2130870
+way,538579269,Saint Barbara's Church,place_of_worship,42.3261848,-83.1755914
+way,538579297,Corewell Health Care Center,clinic,42.3217322,-83.1752914
+way,538881217,Oakleaf Neurology and Sleep,doctors,42.3255268,-83.1693482
+way,539113406,Mayflower Missionary Baptist Church,place_of_worship,42.3594097,-83.1007063
+way,540107650,Saints Peter and Paul Roman Catholic Church West Side,place_of_worship,42.3473160,-83.2298787
+way,542763636,Faith Christian Academy,place_of_worship,42.2689068,-83.1763514
+way,543404622,Beth Eden Baptist Church,place_of_worship,42.4082979,-83.1596290
+way,543404629,Palestine Missionary Baptist Church,place_of_worship,42.4076980,-83.1602247
+way,543404632,Missionary Temple Church of God in Christ,place_of_worship,42.4114209,-83.1603727
+way,543404639,Evangelistic House of God,place_of_worship,42.4095885,-83.1538050
+way,544251353,Hope Presbyterian Church,place_of_worship,42.4028517,-83.1690550
+way,544251354,Mary McLeod Bethune Academy (closed),school,42.4011292,-83.1687868
+way,544251355,St. Peter Claver Catholic Church,place_of_worship,42.4028921,-83.1669018
+way,545591634,Corinthian Baptist Church,place_of_worship,42.3963503,-83.0701221
+way,546640140,,clinic,42.3669781,-83.0808228
+way,546640331,University Preparatory Academy High School,school,42.3626743,-83.0744606
+way,548438371,Al-Islah Islamic Center,place_of_worship,42.3997798,-83.0606739
+way,550519971,Mt. Carmel Baptist Church,place_of_worship,42.3749577,-83.0648623
+way,551110749,,school,42.4378974,-83.1433091
+way,552613066,Calvary Hill Primitive Baptist Church,place_of_worship,42.3939716,-83.1001167
+way,552683701,St. Philip's Evangelical Lutheran Church,place_of_worship,42.3733084,-83.0660343
+way,556883830,Harper Woods High School,school,42.4440032,-82.9345043
+way,557676833,,place_of_worship,42.2946742,-82.9540166
+way,558662114,Breakers Covenant Church International,place_of_worship,42.3804705,-83.0808257
+way,559431746,Historic Little Rock Missionary Baptist Church,place_of_worship,42.3820276,-83.0804849
+way,559431748,Detroit International Academy for Young Women / Detroit Northern High School,school,42.3827225,-83.0804342
+way,559436274,Alpha & Omega Church,place_of_worship,42.3829339,-83.0749488
+way,559571272,Reedeemed Temple C.O.O.L.J.C. of the Apostolic Faith,place_of_worship,42.3893412,-83.0723761
+way,559580128,Islamic House of Wisdom,place_of_worship,42.3397668,-83.2617332
+way,559837161,Triumph Church,place_of_worship,42.3749809,-83.0618592
+way,560381815,Payne-Pulliam School of Trade and Commerce,school,42.3916103,-82.9857918
+way,560510050,Breithaupt Career and Technical Center,school,42.3637842,-83.1866983
+way,561072035,Let Them Come Missionary Babtist Church,place_of_worship,42.3867076,-83.0952550
+way,561185093,,school,42.4074154,-83.0747947
+way,561347742,The Gathering Church,place_of_worship,42.2794243,-83.0221873
+way,561351176,Grand Marais Medical Centre,clinic,42.2692001,-83.0258715
+way,562243144,Pierce Middle School,school,42.3816720,-82.9360673
+way,562243145,Defer Elementary School,school,42.3836044,-82.9375807
+way,562243146,Maire Elementary School,school,42.3906264,-82.9187232
+way,562245810,East English Village Preparatory Academy,school,42.4087038,-82.9288162
+way,562247168,Marquette Elementary-Middle School,school,42.4199062,-82.9235034
+way,562255428,Ronald Brown Academy,school,42.4044966,-82.9479099
+way,562258758,Saint Clare of Montefalco School,school,42.3910721,-82.9302772
+way,562624138,Corewell Health Beaumont Hospital,hospital,42.3834790,-82.9138248
+way,562634849,Poupard Elementary School,school,42.4448770,-82.9198933
+way,562638306,J.E. Clark Preparatory Academy,school,42.3946500,-82.9414492
+way,562740165,Giving Tree Montessori School,school,42.4037095,-82.9180944
+way,563503230,,school,42.3509571,-83.0519782
+way,564823883,Hope Academy,school,42.3792978,-83.1353612
+way,565632352,University of Detroit High School,school,42.4326849,-83.1543414
+way,565632356,Palmer Park Preparatory Academy,school,42.4272539,-83.1384842
+way,565634471,Pershing High School,school,42.4320105,-83.0654610
+way,565912973,Mackenzie Elementary-Middle School,school,42.3650390,-83.1595245
+way,566231386,Sampson Weber Acaemy,school,42.3543820,-83.1180170
+way,566393301,Barack Obama Leadership Academy,school,42.3802752,-82.9854835
+way,566404756,Hutchinson Elementary-Middle School at Howe,school,42.3695881,-82.9829993
+way,566404763,Detroit Lions Academy,school,42.3791684,-82.9939227
+way,567219465,Golightly Education Center,school,42.3648205,-83.0590758
+way,567219467,University Preparatory Academy - Middle School,school,42.3623262,-83.0579379
+way,567229027,Keidan Special Education Center,school,42.3739129,-83.1282865
+way,567632563,Jerry L. White Center High School,school,42.4124705,-83.0494556
+way,567961757,Detroit School of Arts,school,42.3485704,-83.0609352
+way,568284671,Detroit Delta Preparatory Academy,school,42.3442167,-83.0671198
+way,568335379,John D. Dingell VA Medical Center,hospital,42.3556713,-83.0592626
+way,568338650,DMC Children's Hospital of Michigan Specialty Center,clinic,42.3533215,-83.0515702
+way,568348727,Herlong Cathedral School,school,42.3566383,-83.0634146
+way,568369339,Burton International Academy,school,42.3391387,-83.0780310
+way,568375227,DEPSA Primary Academy,school,42.3518347,-83.0374095
+way,568385231,Universal Academy,school,42.3276005,-83.1450874
+way,568385232,Priest Elementary‑Middle School,school,42.3374538,-83.1444719
+way,568385233,Munger Elementary-Middle School,school,42.3367362,-83.1324437
+way,568572547,Chandler Park Academy Middle School,school,42.4443524,-82.9417680
+way,568572548,Chandler Park Academy Elementary School,school,42.4452934,-82.9414649
+way,568572549,Chandler Park Academy High School,school,42.4454022,-82.9403202
+way,568758779,Walter P. Chrysler Elementary School,school,42.3383010,-83.0337695
+way,568811648,Wayne Elementary School,school,42.4150338,-82.9568820
+way,568838339,Winans Academy of Performing Arts,school,42.4135423,-82.9468241
+way,568838341,Duke Ellington Conservatory of Music and Art,school,42.4083673,-82.9785830
+way,570119355,Oakman Elementary School,school,42.3465153,-83.1872752
+way,570120556,Old Redford Academy High School,school,42.4182102,-83.2166217
+way,570122316,Vernor Elementary School,school,42.4395191,-83.1826290
+way,570122317,David Ellis Academy,school,42.4300449,-83.1808123
+way,570540460,Roberto Clemente Learning Academy,school,42.3096276,-83.1163361
+way,570758275,Windsor Regional Hospital,hospital,42.3084425,-83.0319668
+way,570795221,Woodworth Middle School,school,42.3228634,-83.1901984
+way,570795228,Nolan Elementary-Middle School,school,42.4363000,-83.0917251
+way,574193394,Bunche Preparatory Academy,school,42.3441919,-83.0240919
+way,574203637,Richard Elementary School,school,42.4362302,-82.9823544
+way,574209196,Beacon Elementary School,school,42.4360519,-82.9380017
+way,574209197,Carleton Elementary School,school,42.4275437,-82.9453604
+way,576518088,Marion Law Academy,school,42.4380729,-83.0297777
+way,576931005,Cornerstone Jefferson-Douglas Academy,school,42.4284351,-83.0301296
+way,580580905,Advantage Alternative Junior High School,school,42.4507179,-83.0875228
+way,581404391,Woodward Academy,school,42.3370631,-83.0374557
+way,581728313,Will Rogers Elementary School (closed),school,42.3829435,-83.2816016
+way,582960883,Henry Ford Medical Center - Fairlane,hospital,42.3199128,-83.2272291
+way,585731391,Charles R. Drew Transition Center,school,42.3673557,-83.1563941
+way,585734744,Murphy Academy,school,42.3990941,-83.2747155
+way,585734747,Ludington Magnet Middle and Honors School,school,42.4346778,-83.2705393
+way,585734750,Charles Wright Academy of Arts and Science,school,42.4319584,-83.2701732
+way,585743851,The Children's Center Head Start Academy,school,42.4379118,-83.2378839
+way,585743855,University YES Academy,school,42.4225442,-83.1916087
+way,585743863,Hartford Nursing & Rehabilitation Center,clinic,42.4211043,-83.1930215
+way,585759388,Communication and Media Arts High School,school,42.3984219,-83.2057755
+way,585759389,Gardner Elementary School,school,42.3392201,-83.2015899
+way,585759391,Academy of the Americas Elementary-Middle School,school,42.3271851,-83.1099507
+way,585759392,Catherine Ferguson Academy,school,42.3406827,-83.0898513
+way,585759393,,school,42.3495240,-83.0745990
+way,585762884,Ralph Bunche Elementary School,school,42.3551425,-83.0217557
+way,585762885,James and Grace Lee Boggs School,school,42.3631663,-83.0074241
+way,585762887,Detroit Waldorf School,school,42.3643438,-82.9974940
+way,585762891,Mason Academy,school,42.4424874,-83.0548637
+way,585762892,,school,42.4411521,-83.0547917
+way,585762895,Frontier International Academy,school,42.4123138,-83.0580239
+way,585762897,Detroit International Academy for Young Women,school,42.3773103,-83.0787524
+way,585776506,CHASS Center,clinic,42.3087624,-83.0968450
+way,586983797,Life-alysis Kidney Center,clinic,42.3946806,-82.9850585
+way,587002446,Jehovah's Witnesses Conner Park,place_of_worship,42.3965933,-82.9908774
+way,587019446,,doctors,42.4095861,-83.0030370
+way,587317653,Temple of I Am,place_of_worship,42.3859511,-82.9686733
+way,588518142,Stewart Elementary-Middle School,school,42.3897843,-83.1250363
+way,589687670,Morning View Baptist Church,place_of_worship,42.3524376,-83.0972426
+way,590812539,Riverside Academy Early Childhood Center,school,42.3432526,-83.1639768
+way,590813607,Thirkell Elementary-Middle School,school,42.3669898,-83.0956528
+way,591441610,Distinctive College Prep,school,42.4274134,-82.9231439
+way,591441611,Tyrone Elementary School,school,42.4295586,-82.9213854
+way,591699687,New Paradigm College Prep,school,42.3346344,-83.1094436
+way,591946453,Dearborn Pediatric,doctors,42.2939088,-83.2485415
+way,600095758,St Lazarus Serbian Orthdox Church,place_of_worship,42.4418226,-83.0226004
+way,603531137,Hosmer Elementary School,school,42.3901900,-82.9589392
+way,603548306,Our Lady of the Assumption,place_of_worship,42.3064977,-83.0546096
+way,604661631,Oakland International Academy Middle School,school,42.3896293,-83.0428244
+way,608974971,DMG Medical Center,clinic,42.4353256,-82.9801503
+way,609031124,Islamic Center of Hamtramck,place_of_worship,42.4003053,-83.0606779
+way,610865724,Martin Evans Baptist Church,place_of_worship,42.4067991,-82.9967136
+way,611600231,Philippians Church of God In Christ,place_of_worship,42.4354350,-82.9724640
+way,612301787,Open Door Church of God in Christ of Detroit,place_of_worship,42.4350552,-82.9685924
+way,612301793,Fresh Start Community Christian Church,place_of_worship,42.4350376,-82.9691054
+way,612346459,,hospital,42.4202129,-83.2149170
+way,620158903,Fellowship Chapel,place_of_worship,42.4185027,-83.2120890
+way,622479738,A.L. Holmes Academy of Blended Learning,school,42.3953225,-83.0145434
+way,623425596,Ford Wellness Center,clinic,42.3904196,-82.9801005
+way,624730989,Christ Cathedral Baptist Church,place_of_worship,42.3496178,-83.1135986
+way,625734673,Tolan Park Medical Building,clinic,42.3524743,-83.0515489
+way,626772510,New Jerusalem Church of God in Christ,place_of_worship,42.3610080,-83.1007751
+way,626772788,Shrine of the Black Madonna,place_of_worship,42.3630418,-83.1021791
+way,626772900,New Birth Church of Christ,place_of_worship,42.3646441,-83.1031341
+way,626781550,Holy Cross Baptist Church,place_of_worship,42.3585277,-83.0978937
+way,626818817,Pilgrim Rest Baptist Church,place_of_worship,42.3668543,-83.0419065
+way,627067514,Cristo La Roca,place_of_worship,42.3177778,-83.1099635
+way,627446611,Bibleway Temple for Better Living,place_of_worship,42.3715986,-83.1130678
+way,627446612,The House of God,place_of_worship,42.3713799,-83.1136374
+way,627585336,Mount Charity Baptist Church,place_of_worship,42.3714876,-83.1146978
+way,627885774,Field School,school,42.3524108,-83.0014063
+way,630795630,Greenfield Union School,school,42.4332279,-83.1077701
+way,631294288,Central United Church,place_of_worship,42.3138107,-83.0361001
+way,631308924,Linh Son Temple,place_of_worship,42.3135517,-83.0337958
+way,631357399,Victory Way Assembly Church of God in Christ,place_of_worship,42.3523042,-83.1221393
+way,631448820,St. Angela Merici Church,place_of_worship,42.3128968,-83.0238588
+way,631667141,Warrendale Charter Academy,school,42.3474928,-83.2303452
+way,631673334,Paradise Temple,place_of_worship,42.3535679,-83.0161442
+way,632224391,East Side Church of Christ,place_of_worship,42.3559409,-82.9976887
+way,632334880,Burns Elementary-Middle School,school,42.3936920,-83.1910553
+way,632337665,Bates Academy,school,42.4378327,-83.1625333
+way,633281539,Saint Mary of Redford Elementary School,school,42.3973029,-83.2057501
+way,633292610,Islamic International Academy,school,42.3516964,-83.1839731
+way,633478309,,clinic,42.4466152,-82.9696080
+way,633478310,Trix Academy,school,42.4442258,-82.9909453
+way,633711371,,school,42.4392457,-83.0200861
+way,633714799,Detroit Achievement Academy,school,42.4200874,-83.2007934
+way,633740994,McCollough-Unis School,school,42.3497101,-83.1805552
+way,633785508,Detroit Job Corps Center,school,42.3877741,-83.1056060
+way,633787316,Thurgood Marshall Elementary School,school,42.4060168,-83.1289893
+way,633787318,Bagley Elementary School,school,42.4252004,-83.1522264
+way,633904159,Dove Academy of Detroit,school,42.4416050,-83.0664255
+way,633982063,Dossin Elementary-Middle School,school,42.3833683,-83.2106274
+way,634991745,Samaritan Missionary Baptist Church,place_of_worship,42.3702492,-82.9973752
+way,635658518,Detroit Academy of Arts and Sciences,school,42.3406632,-83.0181903
+way,635672951,Davison Elementary-Middle School,school,42.4117705,-83.0688694
+way,635672952,Al-Ikhlas Training Academy,school,42.4098908,-83.0642462
+way,635737680,Mt. Nebo Missionary Baptist Church,place_of_worship,42.3708003,-82.9961677
+way,636607434,Neinas Dual Language Learning Academy,school,42.3171438,-83.1071298
+way,636618256,Gesu Catholic School,school,42.4177151,-83.1383832
+way,636992737,DMC Northwest Women's Care,hospital,42.4422506,-83.2633285
+way,637001361,Cesar Chavez Academy Martin Campus,school,42.3290630,-83.1252958
+way,637001605,Academy of the Americas,school,42.3280719,-83.1222131
+way,638522293,DPS Harris Building,school,42.3610812,-83.0233449
+way,638522295,Team Wellness Center – East,clinic,42.3619603,-83.0213136
+way,638760076,DMC Sinai-Grace Outpatient Behavorial Health,clinic,42.4170091,-83.1853794
+way,638846797,,school,42.2693782,-83.1542816
+way,638846804,Clarence B Sabbath Middle School,school,42.2711262,-83.1465237
+way,639002697,,place_of_worship,42.3979931,-82.9230826
+way,639196555,New St. Paul Head Start,school,42.3949156,-83.2395592
+way,639537331,Detroit Leadership Academy Elementary School,school,42.3843906,-83.2703533
+way,640324478,,school,42.4294046,-83.0282209
+way,640353729,New Paradigm Glazer Academy,school,42.3990663,-83.1168877
+way,640355707,Burt Elementary School,school,42.4068519,-83.2445587
+way,640739086,Maples Elementary School,school,42.3408590,-83.1913182
+way,640845856,Calvary Methodist Episcopal Zion Church,place_of_worship,42.3580369,-83.2229516
+way,640845858,Second Grace United Methodist Church,place_of_worship,42.3580269,-83.2244050
+way,640991120,Saint Cunegundis School,school,42.3363688,-83.1467224
+way,640993487,Shar Academy,school,42.3526303,-83.1112466
+way,641002620,Salina Intermediate School,school,42.3054838,-83.1484060
+way,641002621,Salina Elementary School,school,42.3069281,-83.1495693
+way,641070965,Southwest Counseling Solutions Waterman Outpatient Clinic,clinic,42.3124399,-83.1132863
+way,641335384,Academy of Oak Park-Whitcomb,school,42.3910670,-83.1968198
+way,642027554,Old Melvindale High School,school,42.2783356,-83.1856533
+way,642027557,Strong Middle School,school,42.2799236,-83.1806408
+way,642401503,,place_of_worship,42.3186912,-83.0131225
+way,642401523,,place_of_worship,42.3198633,-83.0139600
+way,642843265,Old Redford Academy Middle School,school,42.4154007,-83.2598948
+way,642978858,,school,42.3314549,-83.2329693
+way,642978861,The Dearborn Academy,school,42.3309027,-83.2279229
+way,643027958,,school,42.3306607,-83.2291762
+way,643484911,Development Centers Head Start,school,42.4300053,-83.2614728
+way,643484915,Cornerstone Health + Technology High School,school,42.4180111,-83.2200528
+way,644050150,West Village Academy,school,42.2846438,-83.2817812
+way,644961689,Noor-ul-Islam,place_of_worship,42.3210224,-83.0159066
+way,645640576,Cesar Chavez Academy Vernor Campus,school,42.3111356,-83.1293824
+way,645689997,Detroit Police Training Academy,school,42.3572997,-83.0955597
+way,646096547,Flagship Charter Academy,school,42.3881224,-83.1565438
+way,647084342,Old Redford Academy Elementary School,school,42.4159961,-83.2601449
+way,647761963,Beaumont Northside Family Medicine,clinic,42.3886400,-83.1985702
+way,647770656,DMC Greenfield Health Center,clinic,42.4315285,-83.2002712
+way,647798434,Bridge Academy East,school,42.3999017,-83.0453891
+way,647798436,Transfiguration School,school,42.4151265,-83.0439029
+way,647803299,Boykins Continuing Education Center,school,42.3865789,-83.0926204
+way,648311719,Saint Cecilia School,school,42.3729685,-83.1399693
+way,648318221,Allen Academy,school,42.3637873,-83.1195715
+way,648425181,Westside Bible Christian Church,place_of_worship,42.4278268,-83.2838031
+way,648740992,Henry Ford Kingswood Hospital,hospital,42.4471337,-83.1643954
+way,649199289,Grosse Pointe Opthamology,clinic,42.3774322,-82.9345990
+way,649199290,Detroit Institute of Opthomology,clinic,42.3775855,-82.9338289
+way,649368090,First Step Academy,school,42.3645576,-83.2173088
+way,649368093,WAY Academy West,school,42.3638726,-83.2305566
+way,649368101,Vetal Elementary School,school,42.3899710,-83.2315441
+way,649373825,WAY Academy Southwest,school,42.3089793,-83.1326126
+way,649633279,Greater Burnette Baptist Church,place_of_worship,42.3858393,-83.2119369
+way,652111345,Evergreen Lutheran School,school,42.3564525,-83.2355285
+way,652450657,DCHC East Riverside Health,clinic,42.3718281,-82.9480425
+way,653294370,W. F. Herman Academy Elementary School,school,42.3104343,-82.9759715
+way,653404496,H.J. Lassaline Catholic School,school,42.3017411,-82.9205937
+way,653416101,St. Rose,place_of_worship,42.3297899,-82.9533588
+way,653643431,Temple of Faith Baptist School,school,42.3641345,-83.2012946
+way,653644516,Barton Elementary School,school,42.3597893,-83.1543483
+way,653644517,Detroit Advantage Academy,school,42.3680999,-83.1649695
+way,653770080,Baitul Ehsaan Mosque,place_of_worship,42.2910944,-82.9919258
+way,653770099,St. Vladimir Ukrainian Orthodox Cathedral,place_of_worship,42.3020431,-82.9973799
+way,653770100,Hugh Beaton Public School,school,42.2990755,-82.9996451
+way,653774913,Northwest Early Learning Center,school,42.4307369,-83.1824055
+way,653778230,Detroit Public Safety Academy,school,42.3250412,-83.0671895
+way,653835860,Dougall Avenue Public School,school,42.3104340,-83.0387443
+way,654095505,Detroit Prep,school,42.3718985,-83.0039864
+way,654095506,Cesar Chavez Academy East Campus,school,42.3713997,-83.0063423
+way,654806460,New Greater Faith Missionary Baptist Shurch,place_of_worship,42.4077462,-83.1796212
+way,656734729,École élémentaire catholique Sainte-Thérèse,school,42.3073637,-82.9595121
+way,656751963,Love Joy Missionary Baptist Church,place_of_worship,42.2711609,-83.1433364
+way,657969813,,place_of_worship,42.3113623,-82.9555782
+way,658936683,Biblical Faith Ministry Center,place_of_worship,42.3864971,-83.2385053
+way,659233255,,clinic,42.2922133,-83.0128609
+way,661240996,Promised Land Ministries,place_of_worship,42.4090514,-83.1811986
+way,662515323,William Ford Elementary School,school,42.3303597,-83.1871333
+way,663686497,Joy Preparatory Academy,school,42.4017369,-83.1361437
+way,664772200,Peace for All Ministries,place_of_worship,42.3728519,-83.1751941
+way,665033770,Yost School,school,42.4078329,-83.2834687
+way,667990957,Our Lady of Grace,place_of_worship,42.3562195,-83.2713273
+way,668024625,Mount Valley Baptist Church,place_of_worship,42.4019794,-83.1905870
+way,669968425,Advanced Technology Academy,school,42.3222437,-83.1681873
+way,669968426,Miller Elementary School,school,42.3224673,-83.1701405
+way,669968427,Cotter Early Childhood Center,school,42.3212860,-83.1704462
+way,671147118,George Washington Carver Academy,school,42.4083353,-83.1018638
+way,671408804,Loyola High School,school,42.4030409,-83.1665115
+way,671612466,Henry Ford Medical Center - Hamtramck,clinic,42.3909639,-83.0575968
+way,671704244,Most Holy Trinity School,school,42.3298664,-83.0614590
+way,672180318,All Saints' Anglican Church,place_of_worship,42.3181761,-83.0352952
+way,672309091,Family Medicine,clinic,42.2565917,-83.1995285
+way,672309094,Detroit Sinus Center,clinic,42.2560100,-83.1976338
+way,672309095,Best Medical Center,clinic,42.2559127,-83.1972889
+way,672693795,Divine Child High School,school,42.3188418,-83.2838662
+way,672693800,Divine Child Elementary School,school,42.3199230,-83.2845125
+way,673001381,Colin Powell Academy,school,42.3927429,-82.9629918
+way,673491330,Dearborn Christian Preschool,school,42.2927669,-83.2451982
+way,675238900,,place_of_worship,42.2658532,-83.1555721
+way,675317210,Hamtramck Academy,school,42.4041515,-83.0526635
+way,675324537,Dickinson East Elementary School,school,42.3980275,-83.0520107
+way,675324538,Oakland International Academy High School,school,42.3937492,-83.0591418
+way,676078462,Our Lady of Lourdes,place_of_worship,42.2741458,-83.1355502
+way,678024860,St John the Great Baptist Church,place_of_worship,42.4096000,-83.1799856
+way,679053643,Caniff Liberty Academy,school,42.3988204,-83.0618293
+way,679053646,Early Childhood Elementary School,school,42.4042756,-83.0600044
+way,679124880,StoneCrest Center,hospital,42.4434663,-82.9713931
+way,679124888,,clinic,42.4353165,-82.9802470
+way,679135230,Joy Center Headstart,school,42.3696751,-83.1420270
+way,679139186,St. David Elementary School,school,42.4071323,-82.9949986
+way,681205751,Detroit Merit Charter Academy,school,42.3761194,-82.9408151
+way,681266224,Saint Stanislaus School,school,42.3722216,-83.0463459
+way,681275648,Corewell Health Urgent Care,clinic,42.2599701,-83.2077853
+way,681775532,,clinic,42.3862143,-83.1811228
+way,682805269,,clinic,42.4332328,-83.0486978
+way,683606516,Sherrill Middle School,school,42.3545400,-83.1418923
+way,684613599,Disciples of Christ Baptist Church,place_of_worship,42.3875479,-83.1788891
+way,688174802,Fellowship Tabernacle Church of God in Christ,place_of_worship,42.4180106,-83.1740791
+way,688224859,Tabernacle of Faith Church,place_of_worship,42.4168964,-83.1764541
+way,688240236,Dr. Ronald F Williamson MD,doctors,42.4172578,-83.1795620
+way,688430066,Full Gospel Christian Church,place_of_worship,42.4232397,-83.1789304
+way,688443594,,clinic,42.4235616,-83.1797367
+way,688491143,DMC Sinai-Grace Outpatient Behavioral Health,doctors,42.4168406,-83.1855247
+way,688742534,Liberty Temple Baptist Church,place_of_worship,42.4174742,-83.1989835
+way,688967545,Westminster Church of Detroit,place_of_worship,42.4208615,-83.1906194
+way,690012940,Cass Technical High School,school,42.3386084,-83.0610195
+way,690297155,Catherine C. Blackwell Institute,school,42.3889262,-83.0054399
+way,691531566,Resurrection Christian Center,place_of_worship,42.4233983,-83.1999493
+way,691713506,Detroit International Young Women's Academy,school,42.3828038,-83.0798147
+way,692029594,Woodward Corridor Family Medical Center,clinic,42.3442305,-83.0636991
+way,694778574,Melvindale High School,school,42.2733662,-83.2039665
+way,696038843,Assumption College School,school,42.2950551,-83.0608783
+way,697837682,New Ebenezer Baptist Church,place_of_worship,42.3502106,-83.1130311
+way,700602278,Metropolitan Church of God,place_of_worship,42.3857751,-83.1780189
+way,700602298,Christ Reformed Baptist Church,place_of_worship,42.3864221,-83.1796502
+way,700605479,,place_of_worship,42.4188182,-83.1096125
+way,703235897,,school,42.3148662,-83.2696971
+way,703235898,Bryant Junior High School,school,42.3147000,-83.2738765
+way,711493018,,place_of_worship,42.2666952,-83.1464466
+way,711517413,Christian Fellowship Church of Detroit,place_of_worship,42.2634224,-83.1716600
+way,712321355,ELIM Baptist Church,place_of_worship,42.4324564,-83.2588882
+way,714471057,"Martin Luther King, Junior Education Center Academy",school,42.4147476,-83.1711700
+way,714511138,New Mount Sinai Church,place_of_worship,42.3718700,-83.2218013
+way,714756449,,place_of_worship,42.3847771,-83.2568000
+way,714770580,Allendale Elementary School,school,42.2800332,-83.1767844
+way,717611540,University Preparatory Academy Elementary School – Ellen Thompson Campus,school,42.3615386,-83.0770956
+way,717709608,University Prep Science & Math High School,school,42.3370868,-83.0204309
+way,720592533,New Way Christian Community Church,place_of_worship,42.3928807,-83.1111889
+way,720592601,First Pilgrim Guide Baptist Church,place_of_worship,42.3901435,-83.1064573
+way,721768331,Ambassador Baptist Church,place_of_worship,42.2903322,-83.0650503
+way,722800066,The Original Church of God,place_of_worship,42.3889393,-83.1189371
+way,722937681,Taylor Parks Elementary School,school,42.2598188,-83.2390491
+way,727337162,Islamic Council of America,place_of_worship,42.3418466,-83.1771059
+way,727424733,Christ Love Tabernacle Missionary Baptist Church,place_of_worship,42.3722023,-83.2005093
+way,727432515,New Gospel Temple,place_of_worship,42.3503696,-83.2086963
+way,727432518,St. Christopher Catholic Church,place_of_worship,42.3487109,-83.2063844
+way,727743197,Alleluia Romanian Pentecostal Church,place_of_worship,42.2774634,-83.2562927
+way,727753348,,place_of_worship,42.2799546,-83.2481009
+way,727869876,,clinic,42.3552381,-83.2842499
+way,728148414,The Family Doc,doctors,42.3414812,-83.2876332
+way,728243262,Allen Park Health Center,clinic,42.2565945,-83.2127350
+way,729199443,Dearborn Pediatrics,doctors,42.2913257,-83.2505919
+way,729202410,St. Suzanne / Our Lady Gate of Heaven Parish,place_of_worship,42.3642780,-83.2307771
+way,731858875,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.3694629,-83.2171563
+way,732682443,St. Paul AME Zion Church,place_of_worship,42.3777493,-83.1232658
+way,732962884,Canaan Missionary Baptist Church,place_of_worship,42.3915660,-83.1206851
+way,732995165,Universal Academy,school,42.3281784,-83.1420433
+way,733369182,Mount Lebanon Baptist Church,place_of_worship,42.3963376,-83.1245886
+way,734018505,,place_of_worship,42.3721668,-83.2079903
+way,734031411,Greater Love Tabernacle Church of God in Christ,place_of_worship,42.3719845,-83.2147640
+way,734131588,New West Cide Central MBC,place_of_worship,42.3649748,-83.2354370
+way,734133882,United Christian Church Detroit,place_of_worship,42.3650147,-83.2327969
+way,734251755,Children's Garden,school,42.3306471,-83.1670402
+way,734251769,Quaran Institute of America,school,42.3289218,-83.1499696
+way,734251770,Masjid Al-Furqan,place_of_worship,42.3289798,-83.1493448
+way,734251807,,clinic,42.3102385,-83.1266940
+way,734253201,Hazel Park Empowerment West Alternative School,school,42.3669026,-83.2051555
+way,734257168,Henry Ford Medical Center - Ford Road,clinic,42.3276843,-83.2222101
+way,734302605,Grace Community Church,place_of_worship,42.3643756,-83.2366680
+way,736215471,Second Ebenezer Church,place_of_worship,42.4165770,-83.0839679
+way,736242403,Cathedral of Hope Nondenominational Church,place_of_worship,42.4232466,-83.0734789
+way,736673676,Scott Memorial United Methodist Church,place_of_worship,42.3723273,-83.1958928
+way,736676626,Greater Rehoboth Church of God in Christ,place_of_worship,42.3728962,-83.1941060
+way,736892454,Bethany Baptist Church,place_of_worship,42.3657251,-83.1934326
+way,737179599,United Gospel Temple Missionary Baptist Church,place_of_worship,42.3585772,-83.1885100
+way,737317405,Third Mission Baptist Church,place_of_worship,42.3734435,-83.1710453
+way,737317407,Third New Hope Baptist Church,place_of_worship,42.3735755,-83.1702587
+way,737780377,George Crockett Academy,school,42.3488730,-83.0869108
+way,738903646,Open Door Bible Fellowship Church,place_of_worship,42.4449226,-83.1617433
+way,738911529,Wyoming Avenue Church of Christ,place_of_worship,42.4412927,-83.1618595
+way,740412284,Kosciuszko Middle School,school,42.4001018,-83.0652297
+way,740412285,Hamtramck High School,school,42.4022664,-83.0576176
+way,741349649,,place_of_worship,42.2672428,-83.1286810
+way,750625153,Redeemed Christian Fellowship Ministries International,place_of_worship,42.4283813,-83.1611846
+way,751170234,Gracanica Serbian Orthodox Church,place_of_worship,42.3047791,-82.9832628
+way,751170246,Grace Baptist Church,place_of_worship,42.3044329,-82.9851264
+way,751428784,Middle Eastern Bible Fellowship,place_of_worship,42.3014670,-82.9186960
+way,751428789,The Church of Jesus Christ of Latter-day Saints,place_of_worship,42.2996362,-82.9215685
+way,751428790,The Salvation Army,place_of_worship,42.2999684,-82.9236101
+way,751429894,Windsor Evangel Bible Church,place_of_worship,42.3048808,-82.9134614
+way,751429898,L.A. Desmarais Catholic School,school,42.3097241,-82.9094357
+way,751429900,Parkview Public School,school,42.3079949,-82.9095099
+way,751429903,Parish of the Atonement,place_of_worship,42.3095084,-82.9150838
+way,751673474,David Maxwell Public School,school,42.3148194,-82.9756943
+way,751675888,Gordon McGregor Public School,school,42.3098172,-82.9895590
+way,751675890,St. Anne French Immersion Catholic School,school,42.3165037,-83.0046741
+way,751678607,Queen Victoria Public School,school,42.3022567,-83.0309473
+way,751678609,Immaculate Conception Catholic School,school,42.3148195,-83.0402919
+way,751683597,First Lutheran Christian Academy,school,42.2570279,-82.9836582
+way,751683601,Roseland Public School,school,42.2601566,-82.9930377
+way,751683607,St. Christopher Catholic School,school,42.2798904,-82.9929358
+way,751683611,St. Angela Catholic School,school,42.3063332,-83.0179055
+way,751688424,West Gate Public School,school,42.2972930,-83.0513127
+way,751691390,Marlborough Public School,school,42.2892921,-83.0642087
+way,751694906,Holy Names Catholic High School,school,42.2778550,-83.0347053
+way,751694907,General Brock Public School,school,42.2995280,-83.0782486
+way,751694909,St. Michael's Adult High School,school,42.3028929,-83.0720660
+way,751738105,École secondaire catholique E.J. Lajeunesse,school,42.2774975,-83.0207838
+way,751738112,Northwood Public School,school,42.2787116,-83.0298952
+way,751738113,Mason Educational Centre,school,42.3139259,-83.0543695
+way,751738120,J.A. McWilliam Public School,school,42.2806438,-82.9857534
+way,751738122,St. Teresa of Calcutta Catholic School,school,42.3051514,-82.9855371
+way,751741297,École élémentaire Louise-Charron,school,42.2538131,-83.0329182
+way,751756133,St. Peter's Marionite Church,place_of_worship,42.2963582,-83.0272022
+way,753594466,Calvary Baptist Church,place_of_worship,42.3354479,-82.9176639
+way,753599010,Riverside United Church,place_of_worship,42.3276434,-82.9649378
+way,753600245,New Apostolic Church,place_of_worship,42.3274564,-82.9729928
+way,753600246,St. Augustine of Canterbury Anglican Church,place_of_worship,42.3270410,-82.9746595
+way,754043584,,school,42.4108531,-83.1016231
+way,757421879,Manuel Reyes Head Start Cetner,school,42.3099289,-83.1315991
+way,758738080,Word of Truth Baptist Church,place_of_worship,42.3414902,-83.1099085
+way,758742477,Galatian Christian Church,place_of_worship,42.3475652,-83.1043228
+way,762333163,Warrendale Bible Chapel,place_of_worship,42.3427315,-83.2277731
+way,763375310,,place_of_worship,42.2563613,-83.2784609
+way,763504159,Kingdom Hall of Jehovah's Witness,place_of_worship,42.3879506,-83.1346142
+way,765466185,Masjid Tawheed,place_of_worship,42.3435913,-83.2228296
+way,769107196,Beaumont Schaefer Clinic,clinic,42.3213505,-83.1752695
+way,770683343,New Center Child Care Academy,school,42.3731583,-83.0793480
+way,770683351,DMC Family Practice,clinic,42.3761333,-83.0766098
+way,771377381,Spring Baptist First Church,place_of_worship,42.3388795,-83.1048055
+way,771377390,Pleasant Hill Missionary Baptist Church,place_of_worship,42.3440454,-83.1126069
+way,777535780,St. Matthew Elementary School,school,42.4112167,-82.9423494
+way,777719648,Grace Ross Health Center,clinic,42.3956461,-83.1989207
+way,779008836,Henry Ford Center for Athletic Medicine,doctors,42.3653760,-83.0759191
+way,779794960,Commonwealth Community Development Academy,school,42.4161977,-83.0559325
+way,781424161,Hotel-Dieu Grace Healthcare,hospital,42.2842851,-83.0655943
+way,782889797,,place_of_worship,42.3274840,-82.9413011
+way,783434055,,place_of_worship,42.3002918,-82.9547715
+way,783467183,St. David's And St. Mark's Anglican Church,place_of_worship,42.2751280,-82.9799194
+way,783467730,,place_of_worship,42.2829662,-82.9810182
+way,783470100,Phillippine International Baptist Church,place_of_worship,42.3146984,-82.9834772
+way,783471014,Windsor Chinese Alliance Church,place_of_worship,42.3173295,-82.9801875
+way,783471927,,place_of_worship,42.3226674,-82.9782486
+way,783677138,,place_of_worship,42.3085352,-82.9904757
+way,783677241,,place_of_worship,42.3121781,-82.9954970
+way,783694164,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.2811886,-82.9995075
+way,783697347,immaculate Heart Parish,place_of_worship,42.2985840,-83.0065325
+way,783697404,Emmanuel United Church,place_of_worship,42.3032130,-83.0036622
+way,785251323,Third New Hope Baptist Church,place_of_worship,42.3442172,-83.1196547
+way,785377240,Paulin Memorial Prebyterian Church,place_of_worship,42.2668886,-83.0157961
+way,785385867,,place_of_worship,42.2955887,-83.0144388
+way,785391350,Holy Apostolic Catholic Assyrian Church of the East,place_of_worship,42.3086598,-83.0221231
+way,785392045,,place_of_worship,42.3055634,-83.0142123
+way,785399148,Saint Matthew's Anglican Church,place_of_worship,42.2631229,-83.0290312
+way,785399430,Iglesia La Luz del Mundo,place_of_worship,42.3515913,-83.1232710
+way,785399687,Windsor Islamic Association Centre,place_of_worship,42.2743805,-83.0313530
+way,787320769,Temple Immanuel Intrdnmntl Church,place_of_worship,42.3518970,-83.1038480
+way,787804076,Mount Zion Full Gospel Church,place_of_worship,42.3133639,-83.0313691
+way,787808760,,place_of_worship,42.3177435,-83.0248171
+way,787808878,First Baptist Church,place_of_worship,42.3151878,-83.0301520
+way,787808967,New Life Fellowship Church,place_of_worship,42.3143222,-83.0295869
+way,787820317,Living Word Pentecostal Assembly,place_of_worship,42.3070035,-83.0400560
+way,787827837,Throne of Grace Church,place_of_worship,42.3154980,-83.0407096
+way,787830000,West Side Church of Christ,place_of_worship,42.2877363,-83.0504303
+way,787831090,Redeemed Christian Church of God,place_of_worship,42.2959399,-83.0482289
+way,787831948,St. Elias Antiochian Orthodox Church,place_of_worship,42.3016464,-83.0591136
+way,787832773,,place_of_worship,42.3125632,-83.0550174
+way,787837628,Rosary Chapel,place_of_worship,42.3072133,-83.0698569
+way,787957471,St. John's Anglican Church,place_of_worship,42.2994764,-83.0767146
+way,791860685,Third Baptist Church,place_of_worship,42.3635814,-83.0599029
+way,793970698,Maranatha Christian Academy,school,42.2779821,-83.0254233
+way,794061498,An-Noor Private School,school,42.2989248,-83.0344384
+way,795753165,Waller Health Center,clinic,42.3568715,-83.0628310
+way,808207975,,clinic,42.3443844,-83.0633836
+way,814931472,New Grace Missionary Baptist Church,place_of_worship,42.4051523,-83.0982065
+way,815022195,,place_of_worship,42.3802325,-83.1688776
+way,815056240,DMC Grand River Health Center,clinic,42.4072021,-83.2336128
+way,816573075,Victory Baptist Church International,place_of_worship,42.3565698,-83.0936681
+way,816576128,Newcenter Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.3606948,-83.0898879
+way,816906698,Detroit Community Health Connection,clinic,42.3571376,-83.0002709
+way,816976555,St. Josaphat Roman Catholic Church,place_of_worship,42.3565508,-83.0525962
+way,817259353,Detroit Behavioral Institute,clinic,42.3478248,-83.0549251
+way,824941371,Karmanos Cancer Institute,clinic,42.3570183,-83.0620970
+way,825263959,Redeemed Missionary Baptist Church,place_of_worship,42.3761012,-83.0844197
+way,826332170,"Belal Abdallah, MD Internal Medicine",doctors,42.3172948,-83.1940345
+way,826625448,Ecumenical Theological Seminary,school,42.3444669,-83.0549694
+way,830812279,Faith Way Assembly,place_of_worship,42.2551581,-83.2315524
+way,836090564,Greater Shiloh Baptist Church,place_of_worship,42.3488040,-83.0504820
+way,836246084,Nardin Park Community Church RCA,place_of_worship,42.3703034,-83.1323729
+way,836786628,Gospel Chapel,place_of_worship,42.4104022,-82.9454851
+way,836801117,Metropolitan Community Tabernacle,place_of_worship,42.4243250,-82.9464078
+way,839040032,,clinic,42.4084531,-82.9946709
+way,844589018,Pelham Medical Center,clinic,42.2829794,-83.2312825
+way,846818806,Dr. Loretta Haddad,doctors,42.2827224,-83.2320450
+way,852176826,New Foundation Christian Church,place_of_worship,42.4023525,-83.1508591
+way,852176827,Blessed Ground International Ministries,place_of_worship,42.4027928,-83.1527021
+way,852197791,Guiding Truth Missionary Baptist Church,place_of_worship,42.4001099,-83.1482293
+way,853601727,Word of Truth Temple of Jesus Chrit,place_of_worship,42.4300785,-83.2054373
+way,853616044,Pembroke Congregation Of Jehovah's Witnesses,place_of_worship,42.4358711,-83.2398994
+way,854072324,Pentecostal Community Church,place_of_worship,42.3748372,-83.1507181
+way,854072348,Great Faith Ministries International,place_of_worship,42.3724003,-83.1503627
+way,854259584,New Saint Marks Missionary Baptist Church,place_of_worship,42.4421629,-83.2821608
+way,855187613,Greater Ship of Zion Missionary Baptist Church,place_of_worship,42.3592591,-83.1527439
+way,855463309,Harvest Christian Church,place_of_worship,42.4290536,-83.2817720
+way,855463317,Church of Detroit,place_of_worship,42.4290025,-83.2832252
+way,856179507,God Land Unity Church,place_of_worship,42.3865202,-83.2627394
+way,856474783,Park Urgent Care,clinic,42.2575149,-83.2028299
+way,856569950,Principles of Faith Missionary Baptist Church,place_of_worship,42.4016515,-83.2018844
+way,856915378,Restoration Fellowship Tabernacle,place_of_worship,42.4134746,-83.2180839
+way,857312617,Redford Church of Christ,place_of_worship,42.4126664,-83.2569795
+way,857582273,New Jerusalem Temple Missionary Baptist Church,place_of_worship,42.4014815,-83.2136420
+way,857918457,180 Church,place_of_worship,42.3871690,-83.1813951
+way,857918462,House of God Church,place_of_worship,42.3818381,-83.1779555
+way,857967612,,clinic,42.3946142,-82.9849696
+way,858637371,William Clay Ford Center for Athletic Medicine,clinic,42.3676891,-83.0773793
+way,860887990,Calvary Presbyterian Church,place_of_worship,42.4305562,-83.2257924
+way,862964655,Grace New Covenant Church,place_of_worship,42.4000424,-83.2649536
+way,863212421,Mount Vernon Missionary Baptist Church,place_of_worship,42.3997970,-83.2474280
+way,863564361,Leland Missionary Baptist Church,place_of_worship,42.4006143,-83.2621701
+way,863837670,Fellowship of Love Missionary Baptist Church,place_of_worship,42.4076965,-83.2593369
+way,864307805,Church of Christ Elmwood Park,place_of_worship,42.3460392,-83.0337817
+way,866036994,St. Joseph Shrine,place_of_worship,42.3454165,-83.0356488
+way,866050564,Warren Avenue Missionary Baptist Church,place_of_worship,42.3611559,-83.0522699
+way,868104633,Silent Assembly of God,place_of_worship,42.4247457,-83.2585714
+way,870457745,World Changer's International Ministries,place_of_worship,42.4426603,-83.2670857
+way,871901337,DMC Northwest Women's Care,hospital,42.4426177,-83.2633600
+way,871911916,New Hope Tabernacle Church,place_of_worship,42.4401326,-83.2591774
+way,877784889,Eber Memorial Baptist Church,place_of_worship,42.3861766,-83.2276963
+way,877785009,Solomon's Cathedral,place_of_worship,42.3860396,-83.2340453
+way,881109805,Bethel Temple Baptist Church,place_of_worship,42.3420742,-83.1122626
+way,881640782,Bethany-Pembroke Chapel,place_of_worship,42.4369241,-83.2493310
+way,881998404,Greater Mount Huron Missionary Baptist Church,place_of_worship,42.3322208,-83.1061683
+way,882178288,Community Christian Church,place_of_worship,42.4300618,-83.2086630
+way,884486238,Resurrection United Methodist Church,place_of_worship,42.3534108,-83.1768914
+way,885191080,Greater Olivet Missionary Baptist Church,place_of_worship,42.4413368,-83.2203615
+way,885343492,Detroit Unity Temple,place_of_worship,42.4197429,-83.1104625
+way,885675948,Said Issa M.D.,doctors,42.3015277,-83.2660226
+way,886027451,Detroit Premier Academy,school,42.3498333,-83.2065346
+way,888671065,Baha'i Faith Detroit Center,place_of_worship,42.4361065,-83.2005340
+way,890567068,Greater Sonora Missionary Baptist Church Eagle Ministries,place_of_worship,42.3471239,-83.2242935
+way,890568462,Beacon Lighthouse of Prayer,place_of_worship,42.3503936,-83.2126483
+way,890853358,Gospel Tabernacle,place_of_worship,42.4338045,-83.2004074
+way,890853366,Empowerment Worship Christian Center,place_of_worship,42.4323839,-83.2003366
+way,890959067,Brightmoor Aldersgate United Methodist Church,place_of_worship,42.3903658,-83.2557873
+way,890988208,Redeemed Christrian Church of God Cornerstone Bible Church,place_of_worship,42.4189470,-83.2564912
+way,890992854,Detroit Free Methodist Church,place_of_worship,42.4186553,-83.2514680
+way,891136880,Gethsemane Apostolic Church,place_of_worship,42.3817523,-83.2160225
+way,892874594,Khansa Medical Center,doctors,42.3260875,-83.1683615
+way,894303470,St Francis Cabrini Clinic,clinic,42.3295177,-83.0611685
+way,894303471,St. Frances Cabrini Clinic,clinic,42.3295109,-83.0611673
+way,894988381,,clinic,42.3882445,-83.1336596
+way,895249952,St. Luke Missionary Baptist Church,place_of_worship,42.4153106,-83.2465083
+way,895309301,Bushnell Congregational Church,place_of_worship,42.3990570,-83.2175615
+way,895608514,Tri-County Education Center,school,42.4502258,-83.1591028
+way,896764059,Greater Concord Missionary Baptist Church,place_of_worship,42.4169537,-83.0565262
+way,899490806,New Christian Liberty Church,place_of_worship,42.4032686,-83.2565024
+way,899499555,Masjid As Salaam,place_of_worship,42.4006369,-83.2545897
+way,899508323,Tabernacle of Faith Missionary Baptist Church,place_of_worship,42.4005660,-83.2521569
+way,899974705,Saint Hyacinth School,school,42.3696863,-83.0367091
+way,900799000,New Destiny Church,place_of_worship,42.3997071,-83.2547273
+way,900810576,People Of The Light Ministries,place_of_worship,42.3972003,-83.2561561
+way,901240975,,school,42.2850042,-83.2876813
+way,901240976,,school,42.2887407,-83.2818655
+way,901544589,True Spirit of Love Missionary Baptist Church,place_of_worship,42.4155627,-83.2080983
+way,902318614,Sierra Medical Group,clinic,42.3730661,-83.0719625
+way,904207589,St. John's Presbyterian Church,place_of_worship,42.3400165,-83.0291737
+way,905577415,New Center Community Mental Health,clinic,42.3576901,-83.1084322
+way,905868897,Northwestern Community Baptist Church,place_of_worship,42.4003846,-83.2402284
+way,906834809,,place_of_worship,42.3975499,-83.2416715
+way,907775674,Citadel of Praise,place_of_worship,42.3941171,-83.2397570
+way,907775675,New St. Paul Head Start,school,42.3948462,-83.2396032
+way,909791380,Covenant Community Care,clinic,42.3317882,-83.1137110
+way,910541381,Rosedale Park Baptist Church,place_of_worship,42.3894840,-83.2377197
+way,910914191,,school,42.2863142,-83.2651543
+way,910914192,,school,42.2879056,-83.2684262
+way,910914193,,school,42.3001460,-83.2503092
+way,911244778,Premier Medicine Urgent Care,clinic,42.3086005,-83.1428090
+way,911358813,,doctors,42.3120964,-83.2623628
+way,911358814,,doctors,42.3121992,-83.2621909
+way,913603181,,doctors,42.2922123,-83.2506807
+way,914759634,Living Word Church,place_of_worship,42.4154790,-83.2355366
+way,914762700,Trinity Faith United Methodist Church,place_of_worship,42.4155504,-83.2366058
+way,914798167,Central Baptist Church,place_of_worship,42.4008712,-83.2156249
+way,915309682,,school,42.3344139,-83.0929349
+way,916323566,Greater Prayer Tabernacle,place_of_worship,42.4149573,-83.2351546
+way,916803326,Anderson Temple Missionary Baptist Church,place_of_worship,42.3865839,-83.2354417
+way,921330321,Second Baptist Church,place_of_worship,42.3349282,-83.0430780
+way,923433391,New Risen Christ Ministries International,place_of_worship,42.4156048,-83.2293356
+way,924411450,Institute for Population Health,clinic,42.3824449,-83.0820865
+way,925271388,First Baptist Institutional Church,place_of_worship,42.4297810,-83.2121825
+way,925332106,Greater St. Matthew Baptist Church,place_of_worship,42.4018785,-83.1111275
+way,926909889,Greater Missionary Baptist Church,place_of_worship,42.4055646,-83.0670598
+way,927393034,Jehovah Unity Baptist Church,place_of_worship,42.4162634,-83.1866219
+way,929421153,Adams-Young Elementary,school,42.4150291,-83.1748358
+way,932218733,Downriver Vascular Institute,clinic,42.2616760,-83.2162535
+way,935404078,Greater Dequindre Church of God In Christ,place_of_worship,42.3394599,-83.0762691
+way,935814395,Redeemer Presbyterian Church,place_of_worship,42.3483808,-83.0873997
+way,942312857,Saint Paul Church of Christ Holiness,place_of_worship,42.4154180,-83.2147310
+way,943394089,St. Paul Lutheran Church,place_of_worship,42.3021904,-83.2415382
+way,943394090,DaVita Dialysis,clinic,42.3046610,-83.2426065
+way,943394092,DaVita at Home,clinic,42.3042710,-83.2439825
+way,943394100,Good Shepherd United Methodist Church,place_of_worship,42.3003145,-83.2441415
+way,943938055,Greater Community Baptist Church,place_of_worship,42.4088472,-83.2100201
+way,944785680,Full Gospel Opendoor Assembly,place_of_worship,42.4089338,-83.2007195
+way,944809056,Lighthouse Cathedral,place_of_worship,42.4090758,-83.2041275
+way,945772718,Unity Temple of the Apostolic Faith,place_of_worship,42.4197316,-83.1601490
+way,950207060,New Bright Star Missionary Baptist Church,place_of_worship,42.4232373,-83.1415519
+way,953031705,New Mt. Olive Primitive Baptist Church,place_of_worship,42.3776819,-83.1341975
+way,953031713,Russell Woods Church of Christ,place_of_worship,42.3753009,-83.1317761
+way,953031748,First Glory Missionary Baptist Church,place_of_worship,42.3794680,-83.1338033
+way,953035480,Broadstreet Presbyterian Church,place_of_worship,42.3786341,-83.1342194
+way,964635071,Straight Gate International Church,place_of_worship,42.3705688,-83.1422214
+way,965205140,,school,42.2697352,-83.1914905
+way,965669542,Popoff Family Health Center,clinic,42.3772416,-82.9834417
+way,965671426,God's Way Missionary Baptist Church,place_of_worship,42.3882900,-83.0087846
+way,971405715,Dunamis Outreach Ministries,place_of_worship,42.3839804,-83.1975910
+way,974108710,Church of the New Covenant,place_of_worship,42.4102433,-83.1354641
+way,974404623,Saint Agnes School,school,42.3666569,-83.0938415
+way,979339052,,clinic,42.3864294,-83.2164637
+way,981385981,First Spanish Baptist Church,place_of_worship,42.3272409,-83.1179638
+way,982296557,Beaumont Internal Medicine,clinic,42.3225648,-83.2107066
+way,984733248,Universal Triumph The Dominion of God Church,place_of_worship,42.3632269,-83.0876219
+way,984733251,New Order Missionary Baptist Church,place_of_worship,42.3628277,-83.0880006
+way,988037925,People's Community Church,place_of_worship,42.3788402,-83.0797092
+way,992131702,Baitul Islam Mosque,place_of_worship,42.3870334,-83.0394819
+way,992953704,Calvary Tabernacle of Detroit,place_of_worship,42.3551355,-83.1964830
+way,996674223,Covenant House Academy,school,42.3353613,-83.0882534
+way,996685658,Northeast Integrated Health,clinic,42.3787505,-82.9639327
+way,1003085639,Family Medicine,clinic,42.2554734,-83.2089491
+way,1003168715,New Light Recovery Center,clinic,42.4179798,-83.1074659
+way,1003266709,,place_of_worship,42.3935998,-83.0523154
+way,1007158822,Healing for the People Ministries,place_of_worship,42.4300650,-83.2082046
+way,1011288148,,place_of_worship,42.4130514,-83.2470761
+way,1011595455,Cathedral of the Most Blessed Sacrament,place_of_worship,42.3886324,-83.0848268
+way,1012317955,Grace Episcopal Church,place_of_worship,42.3699905,-83.0957299
+way,1013189250,Leviticus Missionary Baptist Church,place_of_worship,42.3634896,-83.1381304
+way,1013205196,Israel Baptist Church,place_of_worship,42.3679992,-83.0265411
+way,1013780034,,clinic,42.3886353,-82.9179451
+way,1013827388,Clinton Street Greater Bethlehem Temple,place_of_worship,42.3759711,-83.1142619
+way,1013827395,Jehovah's Witness Linwood Congregation,place_of_worship,42.3746924,-83.1171978
+way,1013884514,Harper Avenue Church of God in Christ,place_of_worship,42.3589149,-83.0322413
+way,1013885763,New Harmony Baptist Church,place_of_worship,42.3554158,-83.0180615
+way,1014941690,Renaissance Medical Center East,clinic,42.3680071,-83.0024528
+way,1014941693,,clinic,42.3681986,-83.0021058
+way,1014943852,Detroit Collegiate High School,school,42.3564823,-83.0259808
+way,1014970779,Detroit Enterprise Academy,school,42.3685347,-82.9729323
+way,1017253392,Detroit Worship Center,place_of_worship,42.3874811,-82.9508699
+way,1017349737,Former site of Hannan Memorial YMCA,,42.3634778,-82.9789136
+way,1018292300,Saint Clare of Montefalco Catholic Church,place_of_worship,42.3914204,-82.9290410
+way,1018305866,Mount Calvary Lutheran Church,place_of_worship,42.4273101,-82.9747340
+way,1018305867,Mount Calvary Lutheran School,school,42.4273089,-82.9740532
+way,1018305871,Saint Jude School,school,42.4360925,-82.9574540
+way,1018307828,House of Life Church,place_of_worship,42.3851628,-82.9607893
+way,1018319404,Baptist Hill Missionary Baptist Church,place_of_worship,42.3956223,-83.0080602
+way,1018324238,New Calvary Baptist Church,place_of_worship,42.3665379,-83.0189788
+way,1020901613,William Memorial Baptist Church,place_of_worship,42.3844532,-83.1154718
+way,1022371588,New Saint Peter Baptist Church,place_of_worship,42.3731450,-83.0939004
+way,1022658978,Grosse Pointe Unitarian Church,place_of_worship,42.3860039,-82.9116155
+way,1023018983,Saint Gregory Parish,place_of_worship,42.4009228,-83.1360963
+way,1023039371,Healing Spring Missionary Baptist Church,place_of_worship,42.3951436,-83.1017454
+way,1023785394,St Catherine's Temple Prophecy Church,place_of_worship,42.3905640,-83.1207014
+way,1023785396,,place_of_worship,42.3934577,-83.1143470
+way,1023785399,,place_of_worship,42.3847543,-83.1279402
+way,1024110336,Sonora Missionary Baptist Church,place_of_worship,42.3683680,-83.0093770
+way,1024254972,Faith Church,place_of_worship,42.3733387,-82.9421985
+way,1024261397,Touching Lives for Jesus Ministries Church,place_of_worship,42.3844050,-82.9472837
+way,1024269177,Saint Ambrose Catholic Church,place_of_worship,42.3763534,-82.9389769
+way,1024339069,Enon Tabernacle Missionary Baptist Church,place_of_worship,42.3563701,-83.1092892
+way,1024873370,Grace CME Church,place_of_worship,42.4179342,-83.1107000
+way,1024873375,Esther's House Ministries,place_of_worship,42.4178978,-83.1120947
+way,1025044970,Saint Paul Apostolic Temple Church,place_of_worship,42.4190066,-83.1150181
+way,1025058978,Joseph Campau Avenue Church of God in Christ,place_of_worship,42.4213374,-83.0733871
+way,1025348153,Hartford Memorial Baptist Church,place_of_worship,42.4287680,-83.1833783
+way,1025384810,Gospel Temple Baptist Church,place_of_worship,42.4229818,-83.1603444
+way,1025384818,World Class Ministries,place_of_worship,42.4253547,-83.1604828
+way,1025539885,Scotsdale Women's Medical Clinic,clinic,42.4294822,-83.2324790
+way,1025955261,,place_of_worship,42.3675214,-83.0939449
+way,1026412686,Peace & Goodwill Baptist Church,place_of_worship,42.4269958,-82.9244579
+way,1027086455,New Greater Oregon Saint John Baptist Church,place_of_worship,42.3518392,-83.1658602
+way,1027088582,Fountain Of Life And Praise Church,place_of_worship,42.3525260,-83.1531442
+way,1027088583,,school,42.3533882,-83.1531810
+way,1027105276,,place_of_worship,42.3342181,-83.1181122
+way,1027105277,,place_of_worship,42.3344005,-83.1172657
+way,1027105307,Carter Metropolitan Church,place_of_worship,42.3445204,-83.1069414
+way,1027135674,Browns Chapel MIssionary Baptist Church,place_of_worship,42.3920325,-82.9674731
+way,1027135678,Bibleway Deliverance Evangelistic Center,place_of_worship,42.3947466,-82.9618037
+way,1027193762,Sanctuary Missionary Baptist Church,place_of_worship,42.3912217,-83.1410571
+way,1027193764,Garden of Faith Baptist Church,place_of_worship,42.3911346,-83.1413591
+way,1028559324,Holy Cross Lutheran Church,place_of_worship,42.3915885,-83.1967639
+way,1028662750,Saint Brendans School,school,42.4249965,-82.9459040
+way,1028777835,Grace Community Church,place_of_worship,42.4242566,-82.9260663
+way,1028777836,Salem Memorial Church,place_of_worship,42.4221669,-82.9250171
+way,1033867754,Ark Grove Baptist Church,place_of_worship,42.3555896,-83.0378516
+way,1034025835,Berea Saint Paul's United Methodist Church of Highland Park,place_of_worship,42.4109514,-83.1164297
+way,1034630090,Masjid Wali Muhammad,place_of_worship,42.3816869,-83.1145947
+way,1035227971,Zion Hope Baptist Church,place_of_worship,42.3753770,-83.0126080
+way,1035416485,Saint Michael's Ukrainian Catholic Church,place_of_worship,42.3361722,-83.1858720
+way,1035416493,Chase Medical Center,clinic,42.3350059,-83.1864561
+way,1035420096,Saint John's Ukrainian Catholic Church,place_of_worship,42.3286866,-83.1239481
+way,1035422335,Immaculate Conception Ukrainian Byzantine Catholic Church,place_of_worship,42.4047009,-83.0603249
+way,1035831571,The New Creation Church of the Apostolic Faith,place_of_worship,42.4082437,-83.1985879
+way,1035859354,Conventional Baptist Church,place_of_worship,42.3612438,-82.9989894
+way,1036027132,Faith Outreach Tabernacle,place_of_worship,42.3946153,-83.1980232
+way,1036436231,Outer Drive Faith Lutheran Church,place_of_worship,42.4208269,-83.1745578
+way,1037286564,East Side Church of God,place_of_worship,42.3552988,-83.0298222
+way,1037458626,Pilgrim Star Baptist Church,place_of_worship,42.3545080,-83.0899859
+way,1038059483,Life Church,place_of_worship,42.3872684,-83.1385311
+way,1038059486,Spirit & Truth Christian Ministries,place_of_worship,42.3875002,-83.1377458
+way,1038059508,Greater Quinn A.M.E. Church,place_of_worship,42.3964618,-83.1136587
+way,1038059510,,clinic,42.3963476,-83.1099204
+way,1038065922,,place_of_worship,42.4164527,-83.1049937
+way,1038065923,,place_of_worship,42.4161308,-83.1050345
+way,1040947936,,school,42.3294829,-83.2635763
+way,1042097265,People's United Methodist Church,place_of_worship,42.4336343,-83.1993645
+way,1042791371,Resurrection Lutheran Church,place_of_worship,42.4491062,-82.9427544
+way,1042959561,Albanian Islamic Center,place_of_worship,42.4343765,-82.9230605
+way,1047455979,Springhill Missionary Baptist Church,place_of_worship,42.4332213,-83.1995530
+way,1047479967,City Urgent Care & Telemedicine,clinic,42.4308666,-83.1787064
+way,1047728047,Christ Resurrection Missionary Baptist Church,place_of_worship,42.3900711,-83.1086303
+way,1047728088,Greater Philadelphia Tabernacle Church of God in Christ,place_of_worship,42.4032059,-83.1097752
+way,1047735400,Flowery Mountain Baptist Church,place_of_worship,42.3941578,-83.1224220
+way,1047735401,Kaleo Apostolic Church,place_of_worship,42.3939665,-83.1229861
+way,1047735460,New Mount David Baptist Church,place_of_worship,42.3866040,-83.1096426
+way,1047735472,New Hope City Church of God in Christ,place_of_worship,42.3940246,-83.1159299
+way,1047735480,Evangelical Church of God,place_of_worship,42.3939849,-83.1167314
+way,1047738261,The Community Church of Christ,place_of_worship,42.3771616,-83.1254917
+way,1047738262,Christian Community Baptist Church,place_of_worship,42.3794530,-83.1274580
+way,1047739575,,school,42.4006990,-83.1174316
+way,1047739576,,school,42.4005827,-83.1177636
+way,1049137664,Open Door Baptist Church,place_of_worship,42.3260308,-83.1195406
+way,1049461202,Solid Rock Assembly of God,place_of_worship,42.4348677,-82.9760104
+way,1049811796,Second Chapel Hill Missionary Baptist Church East,place_of_worship,42.4337570,-82.9796377
+way,1050511320,,place_of_worship,42.3882854,-83.1977357
+way,1050539212,Saints Peter & Paul Orthodox Christian Cathedral,place_of_worship,42.3287095,-83.1198399
+way,1050612471,New Silver Star Missionary Baptist Church,place_of_worship,42.3710435,-83.0202029
+way,1050775729,Tabernacle Missionary Baptist Church,place_of_worship,42.3492892,-83.1193742
+way,1050775731,Aijalon Baptist Church,place_of_worship,42.3516133,-83.1194422
+way,1050851175,Greater Ecclesia Temple,place_of_worship,42.3678462,-83.1704235
+way,1050879482,Greater St. Paul Baptist Church,place_of_worship,42.4476932,-82.9701586
+way,1050879484,Shiloh Chapel Church of God,place_of_worship,42.4457733,-82.9695681
+way,1051151564,Grace Chapel Church,place_of_worship,42.3593872,-83.1612766
+way,1051151575,Gate to Glory Apostolic Church,place_of_worship,42.3591880,-83.1601486
+way,1051151592,Northwest Church of Christ,place_of_worship,42.3619914,-83.1568449
+way,1051151614,Power of the Word Ministries,place_of_worship,42.3649088,-83.1536117
+way,1051151617,St John's Lutheran Church,place_of_worship,42.3644993,-83.1552181
+way,1051718439,Eastborn Medical Group,doctors,42.3182303,-83.1904947
+way,1051718446,Springwells Church,place_of_worship,42.3186775,-83.1890332
+way,1054715827,New Canaan Church of God in Christ,place_of_worship,42.3662340,-83.1444445
+way,1055105486,St. Cecilia Catholic Church,place_of_worship,42.3721832,-83.1398186
+way,1056019858,First Fellowship Baptist Church,place_of_worship,42.3567034,-83.0905395
+way,1056527293,Christian Family Ministries,place_of_worship,42.3588804,-83.0934957
+way,1056529992,Crosspoint Freewill Baptist Church,place_of_worship,42.2720602,-83.1949270
+way,1056535383,Landmark Church of God in Christ,place_of_worship,42.4457484,-83.1025183
+way,1057873051,Greater Saint John Missionary Church,place_of_worship,42.3523707,-83.1263045
+way,1057873052,Ark of Deliverance Revival Center,place_of_worship,42.3520964,-83.1251539
+way,1061795169,Bethel Friendship Missionary Baptist Church,place_of_worship,42.3983124,-83.0955866
+way,1061795178,New Mt. Moriah Baptist Church,place_of_worship,42.4013994,-83.0935969
+way,1062990290,,school,42.2579482,-83.1783216
+way,1065551562,Third Latin American Baptist Church,place_of_worship,42.3321282,-83.1283501
+way,1065551563,Benediction Pentecostal Church of God,place_of_worship,42.3318227,-83.1281445
+way,1065600787,Pentecostal Church of the Eternal Rock,place_of_worship,42.3250221,-83.1400435
+way,1065600793,Our Lady of Guadalupe,place_of_worship,42.3272711,-83.1344860
+way,1070389583,Hill's Chapel,place_of_worship,42.3575848,-83.0971957
+way,1072341435,Celestial Church of Christ,place_of_worship,42.3517217,-83.1405807
+way,1072341437,SION National Church,place_of_worship,42.3522205,-83.1403388
+way,1078572539,East Bethelehem Lutheran Church,place_of_worship,42.4403172,-83.0432895
+way,1079782417,United House of Prayer For All People,place_of_worship,42.3692657,-83.1206773
+way,1081789808,,clinic,42.3583742,-83.1093131
+way,1081789809,New Center Community Mental Health,clinic,42.3586594,-83.1093689
+way,1088305158,,place_of_worship,42.4477996,-83.2077181
+way,1088706929,St. Luke Church,place_of_worship,42.4019208,-83.1097195
+way,1091867358,Greater Metropolitan Church of God in Christ,place_of_worship,42.4267307,-83.1604890
+way,1091867363,Greater Harvest Ministries Church of God in Christ,place_of_worship,42.4299457,-83.1612262
+way,1091867366,Beulah Grove Baptist Church,place_of_worship,42.4273440,-83.1611689
+way,1092238639,Living Waters Church,place_of_worship,42.3657996,-83.1868425
+way,1092238664,New Mount Pisgah Missionary Baptist Church,place_of_worship,42.3733034,-83.1794263
+way,1092239709,Temple of Faith Baptist Church,place_of_worship,42.3648561,-83.2008721
+way,1092609469,New Corinth Missionary Baptist Church,place_of_worship,42.3734058,-83.1520493
+way,1093267791,El Shaddai Missionary Baptist Church,place_of_worship,42.3756490,-83.1567990
+way,1093267792,Body of Christ Christian Center (Closed),place_of_worship,42.3755948,-83.1543922
+way,1093267793,Greater Southern Metropolitan Baptist Church,place_of_worship,42.3814943,-83.1485519
+way,1093367692,Greenfield Avenue Church of God,place_of_worship,42.4379013,-83.1998100
+way,1093369870,Genesis New Beginnings Church,place_of_worship,42.4300720,-83.2071707
+way,1093988114,Victory Fellowship Church,place_of_worship,42.4096493,-83.1742688
+way,1093988115,Detroit Center Seventh-day Adventist Church,place_of_worship,42.4096568,-83.1738947
+way,1096318412,,school,42.2615657,-83.2326941
+way,1097714972,,school,42.3348068,-83.2887830
+way,1099755417,Rightway Baptist Church,place_of_worship,42.3435458,-83.1012424
+way,1099939908,,school,42.3263136,-83.1842531
+way,1099958234,,school,42.3368505,-83.1780861
+way,1100642335,,school,42.4488638,-82.9263507
+way,1107145593,Bailey Cathedral Church of God in Christ,place_of_worship,42.4241025,-83.1432611
+way,1107145594,Mayflower Congregational United Church of Christ,place_of_worship,42.4240957,-83.1443877
+way,1107148168,Glory and Praise Tabernacle Church of God in Christ,place_of_worship,42.4131840,-83.1702049
+way,1107148169,Faith Reconciliation Tabernacle Center,place_of_worship,42.4134021,-83.1702187
+way,1111547279,Soul Deliverance Church,place_of_worship,42.4196689,-83.0074927
+way,1112312525,New Visions Missionary Baptist Church,place_of_worship,42.3586535,-83.1869861
+way,1115801487,City Temple Seventh Day Adventist Church,place_of_worship,42.3639357,-83.1261522
+way,1115811567,New Life Missionary Baptist Church of Detroit,place_of_worship,42.3894037,-83.0219491
+way,1115863815,Anderson Memorial Church of God in Christ,place_of_worship,42.4244129,-83.0727345
+way,1115863816,Zoar Evangelical Lutheran Church,place_of_worship,42.4237435,-83.0727472
+way,1116019278,Conant Ave United Methodist Church,place_of_worship,42.4299061,-83.0711112
+way,1116380024,Fraternite Notre Dame,place_of_worship,42.4174055,-83.0229955
+way,1116958279,Spiritlove Ministries International,place_of_worship,42.4101093,-83.1462921
+way,1116958289,People's Community Apostolic Church,place_of_worship,42.4096109,-83.1471797
+way,1118108111,St John Paul II Parish,place_of_worship,42.4143714,-83.0443160
+way,1118988596,New Christ Temple Church of God in Christ,place_of_worship,42.4134088,-82.9650781
+way,1118988597,Glory To God Christian Church,place_of_worship,42.4172457,-82.9645508
+way,1119467327,Tehillim Church of God in Christ,place_of_worship,42.4165263,-83.1661648
+way,1119467330,Greater Emmanuel Missionary Baptist Church,place_of_worship,42.4169854,-83.1665895
+way,1119467334,New Mount Olive Church,place_of_worship,42.4166016,-83.1644025
+way,1119467340,Christ Cathedral of Truth,place_of_worship,42.4166533,-83.1627534
+way,1119467341,Christian Inn Missionary Baptist Church,place_of_worship,42.4166414,-83.1630705
+way,1121011155,Silver Star Baptist Church,place_of_worship,42.4072968,-82.9824256
+way,1121011174,The Fountain of Truth Christian Center,place_of_worship,42.4113140,-82.9694632
+way,1121011178,,place_of_worship,42.4107654,-82.9689299
+way,1121011187,Impact Church,place_of_worship,42.4069178,-82.9765756
+way,1121034272,Hill of Calvary Missionary Baptist Church,place_of_worship,42.3865968,-82.9895797
+way,1121046683,Cornerstone Apostolic Church,place_of_worship,42.4450044,-83.1611797
+way,1121046691,Indiana Avenue Church of God in Christ,place_of_worship,42.4444138,-83.1595986
+way,1121046692,Steadfast Baptist Church,place_of_worship,42.4447902,-83.1573891
+way,1121068499,Hanley International Academy,school,42.3859358,-83.0537746
+way,1121460566,Galilee Missionary Baptist Church,place_of_worship,42.4367343,-83.0135997
+way,1124193636,St. Matthew AME Church,place_of_worship,42.3723329,-83.1243407
+way,1124193637,Willow Grove Missionary Baptist Church,place_of_worship,42.3730397,-83.1236988
+way,1124226870,Greater Liberty Tabernacle Church of God in Christ,place_of_worship,42.3702933,-83.1331498
+way,1124268152,Pligrim Church of God in Christ,place_of_worship,42.3901442,-83.1706813
+way,1124268153,New Birth Rescue Missionary Baptist Church,place_of_worship,42.3886486,-83.1611118
+way,1124268154,Northwestern Christian Church,place_of_worship,42.3881625,-83.1611066
+way,1124273058,The Gospel of Christ Ministries Church,place_of_worship,42.3877076,-83.1885827
+way,1124273060,The Caring Temple Baptist Church,place_of_worship,42.3879244,-83.1880451
+way,1125111137,Shiloh Deliverance Church,place_of_worship,42.4255149,-83.1799282
+way,1125111138,The Trinity Church,place_of_worship,42.4258985,-83.1799272
+way,1125469327,Puritan Street Church of Christ,place_of_worship,42.4372219,-83.0772020
+way,1125492607,,place_of_worship,42.4372436,-83.1704555
+way,1125492608,Word in Action Christian Center,place_of_worship,42.4380890,-83.1698650
+way,1126528940,Pathway Ministry,place_of_worship,42.4032700,-83.1231154
+way,1126557600,Penecoastal Outpour International Fellowship of Churches,place_of_worship,42.4019206,-83.1731094
+way,1126557606,New White Stone Baptist Church,place_of_worship,42.4019161,-83.1763550
+way,1126557615,Miracle Gospel Tabernacle,place_of_worship,42.4023227,-83.1555386
+way,1126557616,Northwest Unity Baptist Church,place_of_worship,42.4015794,-83.1545618
+way,1126557627,Trinity Baptist Church,place_of_worship,42.4034190,-83.1572075
+way,1126557639,New Liberty Apostolic Faith Church,place_of_worship,42.4023686,-83.1537767
+way,1127487333,Hampton Memorial Missionary Baptist Church,place_of_worship,42.4018425,-83.1940742
+way,1131150932,Saving Mission Church of God in Christ,place_of_worship,42.4091756,-83.1926702
+way,1131150933,God's Way Cathedral,place_of_worship,42.4091938,-83.1921609
+way,1131150937,Walker Memorial Church of God in Christ,place_of_worship,42.4090657,-83.1973416
+way,1131150942,Anderson Memorial Church of God in Christ,place_of_worship,42.4056130,-83.1886119
+way,1131150944,St. Paul Cumberland Presbyterian Church in America,place_of_worship,42.4092540,-83.1905783
+way,1131150947,Unity Temple Tabernacle,place_of_worship,42.4108804,-83.1888642
+way,1131210958,Dakka Aesthetics,clinic,42.2958105,-83.2475493
+way,1132330846,Love Joy Church of God in Christ,place_of_worship,42.4237771,-83.0877082
+way,1132333369,Kingdom Hall of Jehovah's Witnesses,place_of_worship,42.4396395,-83.0498885
+way,1132333370,,place_of_worship,42.4390994,-83.0498683
+way,1132333377,World Wide Missionary Baptist Church,place_of_worship,42.4365239,-83.0442717
+way,1132338541,New Greater Zion Hall,place_of_worship,42.4332835,-83.0408126
+way,1132338551,Christ Divine Love Missionary Baptist Church,place_of_worship,42.4289606,-83.0391158
+way,1132347504,Church of Our Father Baptist Church,place_of_worship,42.4336539,-83.0496477
+way,1132347507,Northeast Health Center,clinic,42.4332297,-83.0486645
+way,1132347511,Solomon Temple,place_of_worship,42.4331749,-83.0784359
+way,1132347512,Derrick Memorial Missionary Baptist Church,place_of_worship,42.4326856,-83.0806545
+way,1132347518,Liberty Temple Worship Center,place_of_worship,42.4324422,-83.0897757
+way,1132347524,Glad Tidings Church of God in Christ,place_of_worship,42.4326028,-83.0974916
+way,1132348224,Holy Trinity Orthodox Church,place_of_worship,42.4467271,-83.0749045
+way,1132348228,Greater Rose of Sharon Baptist Church,place_of_worship,42.4409570,-83.0834734
+way,1132349249,,place_of_worship,42.4366353,-83.0766709
+way,1132349254,The Rose of Sharon Church Assembly,place_of_worship,42.4359716,-83.0761988
+way,1132349265,Faith Temple Christian Methodist Episcopal Church,place_of_worship,42.4322431,-83.0728180
+way,1132349267,Detroit Conant Gardens Seventh-Day Adventist Church,place_of_worship,42.4313394,-83.0731731
+way,1132350601,Cleansings Springs Missionary Baptist Church,place_of_worship,42.4255442,-83.0697742
+way,1132350602,Antioch Missionary Baptist Church,place_of_worship,42.4266873,-83.0709576
+way,1132350607,Conant Gardens Church of Christ,place_of_worship,42.4282122,-83.0699897
+way,1132350614,Blessed Trinity Missionary Baptist Church,place_of_worship,42.4291132,-83.0636188
+way,1132350615,Pilgrim Baptist Church of North Detroit,place_of_worship,42.4284504,-83.0636138
+way,1132486876,Holy Bible Fellowship,place_of_worship,42.4399228,-83.0339864
+way,1133514361,Chapel Hill Missionary Baptist Church Family Fun Day,place_of_worship,42.3660919,-83.1291394
+way,1134092684,North Central Health Center,clinic,42.4189698,-83.0596176
+way,1134102508,Conquering King Missionary Baptist Church,place_of_worship,42.3963301,-83.0224443
+way,1134102515,First Church of the Reedeemed Interdenominational,place_of_worship,42.3981585,-83.0225274
+way,1134281631,Unity Baptist Church,place_of_worship,42.3522078,-83.1443807
+way,1134281632,Central Christian Methodist Episcopal Church,place_of_worship,42.3521825,-83.1451987
+way,1134281642,True Love Missionary Baptist Church,place_of_worship,42.3521753,-83.1498981
+way,1134281657,New Hope Apostolic Temple,place_of_worship,42.3519381,-83.1384499
+way,1134281659,Saint Phillips Missionary Baptist Church,place_of_worship,42.3485149,-83.1336373
+way,1134281668,Meditation Missionary Baptist Church,place_of_worship,42.3537740,-83.1305225
+way,1134379889,Rising Star Ministries,place_of_worship,42.4255803,-83.1018281
+way,1134379890,Glory to God Christian Church,place_of_worship,42.4271757,-83.1018347
+way,1134379907,Soul Harvest Ministries Cathedral,place_of_worship,42.4154292,-83.1008217
+way,1134379954,Twelfth Street Missionary Baptist Church,place_of_worship,42.4073042,-83.1177511
+way,1134379957,Prayertime Tabernacle Church of God in Christ,place_of_worship,42.4103904,-83.1249962
+way,1134379961,Church of Jesus Our Lord,place_of_worship,42.4099857,-83.1248446
+way,1134379963,Puritan Avenue Baptist Church,place_of_worship,42.4100453,-83.1236536
+way,1134379964,Sweet Home Missionary Baptist Church,place_of_worship,42.4104988,-83.1230805
+way,1134379974,Greater Northwest Church of God in Christ,place_of_worship,42.4092976,-83.1187135
+way,1134379987,Greater United Temple of Christ,place_of_worship,42.4098433,-83.1319039
+way,1134379990,Good Shepherd Lutheran Church,place_of_worship,42.4103350,-83.1296654
+way,1134380004,Word Restoration Ministries,place_of_worship,42.4102075,-83.1340144
+way,1134380017,New Community Fellowship Church,place_of_worship,42.4098776,-83.1298680
+way,1134380057,Unity & Faith Prayer Temple,place_of_worship,42.4106626,-83.1142737
+way,1134385600,Newbirth Missionary Church,place_of_worship,42.3995741,-83.1592802
+way,1134389198,House of Israel Church,place_of_worship,42.4005433,-83.1499295
+way,1134389199,New True Vine Baptist Church,place_of_worship,42.4024575,-83.1427495
+way,1134389200,Mt. Sion Missionary Baptist Church,place_of_worship,42.4024531,-83.1433356
+way,1134389201,White Chapel Missionary Baptist Church,place_of_worship,42.4025075,-83.1438072
+way,1134389202,,place_of_worship,42.4024717,-83.1440034
+way,1134389205,Way of the Lord,place_of_worship,42.4028399,-83.1428012
+way,1134394833,,place_of_worship,42.3893986,-83.1886906
+way,1138049367,New Fellowship Church of the Rock,place_of_worship,42.4054446,-83.1790089
+way,1138049372,Souls for Christ,place_of_worship,42.4058964,-83.1790131
+way,1138057196,Mt. Lebanon-Strathmoor Church,place_of_worship,42.4093594,-83.1876568
+way,1138057197,Craig Memorial Tabernacle Church,place_of_worship,42.4089309,-83.1850746
+way,1138057209,GH Healing Hands Ministry,place_of_worship,42.4089938,-83.1841390
+way,1138057213,Sacred Portals Church of God in Christ,place_of_worship,42.4090635,-83.1817938
+way,1138057217,Jordan Grove Baptist Church,place_of_worship,42.4095270,-83.1806931
+way,1138057220,Nehemiah Baptist Church,place_of_worship,42.4096313,-83.1744373
+way,1138057221,Victorious Living Outreach Ministries,place_of_worship,42.4096180,-83.1753339
+way,1138057222,Friendly Missionary Baptist Church,place_of_worship,42.4096282,-83.1755144
+way,1138057232,St. Mark Holy Temple of Truth,place_of_worship,42.4092016,-83.1774706
+way,1138057233,Abundance of Truth Outreach Ministries,place_of_worship,42.4091912,-83.1770619
+way,1138057236,Holy Ground Missionary Baptist Church,place_of_worship,42.4092158,-83.1766968
+way,1138059328,Divine Inspiration Baptist Church,place_of_worship,42.3685726,-83.1648737
+way,1138064450,Holy Temple Church,place_of_worship,42.3571944,-83.1595118
+way,1138064457,Fellowship Chapel Ministries Church of God in Christof,place_of_worship,42.3589370,-83.1508023
+way,1138065871,Revelation Evangelical Lutheran Church,place_of_worship,42.3524642,-83.1693003
+way,1138067735,God's House of Prayer,place_of_worship,42.3583696,-83.1707215
+way,1138067737,St. Mark Church of God in Christ,place_of_worship,42.3589033,-83.1706916
+way,1138078699,Tabernacle of Judah,place_of_worship,42.3450857,-83.1428792
+way,1138078706,Power Hope & Grace Bible Church,place_of_worship,42.3442165,-83.1337157
+way,1138078712,,clinic,42.3452257,-83.1349318
+way,1138078713,DCHC Bruce Douglas Health Center,clinic,42.3452056,-83.1348043
+way,1138078734,St. Francis Missionary Baptist Church,place_of_worship,42.3446133,-83.1400421
+way,1138078757,Whitlock Memorial Church,place_of_worship,42.3461402,-83.1251977
+way,1138078760,Ecclesia Christian Ministries,place_of_worship,42.3494204,-83.1231146
+way,1138078764,New Memories Baptist Church,place_of_worship,42.3476669,-83.1211472
+way,1138078767,Christ Temple of Peace Church,place_of_worship,42.3496520,-83.1181855
+way,1138078769,St. Cyprian's Episcopal Church,place_of_worship,42.3496622,-83.1150835
+way,1138078771,St. Stephen AME Church,place_of_worship,42.3483878,-83.1140037
+way,1138078773,Good Shepherd Missionary Baptist Church,place_of_worship,42.3481070,-83.1129576
+way,1138079156,Hope Evangelical Ministries,place_of_worship,42.3337490,-83.1217735
+way,1138095950,St. Matthew's Missionary Baptist Church,place_of_worship,42.3863946,-83.1586556
+way,1138095951,Hamlett Temple Christian Methodist Episcopal Church,place_of_worship,42.3877325,-83.1587485
+way,1138095952,High Praise Cathedral of Faith,place_of_worship,42.3882612,-83.1576300
+way,1138096458,Bethlehem Tabernacle Church of God in Christ,place_of_worship,42.3883496,-83.1722524
+way,1138096795,New Beginning Mount Calvary Missionary Baptist Church,place_of_worship,42.3811149,-83.1510409
+way,1138096796,Mt. Gillard Missionary Baptist Church,place_of_worship,42.3811343,-83.1507863
+way,1138145649,Saint Peter Progressive Primitive Baptist Church,place_of_worship,42.4208575,-83.0734171
+way,1138145650,First Community Baptist Church,place_of_worship,42.4218869,-83.0682920
+way,1138153918,Trinity Community Presbyterian Church,place_of_worship,42.4326704,-83.1750095
+way,1138153919,Greater Emmanuel Institutional Church of God in Christ,place_of_worship,42.4321991,-83.1802005
+way,1138153920,,clinic,42.4308662,-83.1787833
+way,1138153929,Free Reign Fellowship,place_of_worship,42.4307114,-83.1606259
+way,1138153936,1st Corinthian Full Gospel Church,place_of_worship,42.4272025,-83.1611555
+way,1138154957,Victory in Christ Ministries,place_of_worship,42.4145570,-83.1191381
+way,1138317494,Straight Street Baptist Church,place_of_worship,42.4385381,-83.0773678
+way,1138317504,Mt. Calvary Baptist Church,place_of_worship,42.4397898,-83.0863855
+way,1138317507,Sharon Community Church,place_of_worship,42.4397599,-83.0869627
+way,1138317508,Rose of Sharon Church of God,place_of_worship,42.4402956,-83.0846794
+way,1138321952,Cedar Christian Church,place_of_worship,42.4377122,-83.0911312
+way,1138321957,The Promise Land Church,place_of_worship,42.4394427,-83.0931169
+way,1138332116,True Gospel Tabernacle Church,place_of_worship,42.4431910,-83.0640516
+way,1145550589,Christian Gospel Center Church of God in Christ,place_of_worship,42.4387512,-83.1605032
+way,1148311609,Cutting Edge Ministries,place_of_worship,42.4346731,-83.0745584
+way,1150768338,,place_of_worship,42.4473840,-83.1791742
+way,1150768339,,place_of_worship,42.4461034,-83.1791179
+way,1153392243,Greater Mount Olive Baptist Church,place_of_worship,42.4464455,-83.1104060
+way,1153392251,Greater New Straight Street Church,place_of_worship,42.4419046,-83.1029703
+way,1153392258,RCCG Overcomers Parish,place_of_worship,42.4408677,-83.1029504
+way,1153392327,Word of Truth Assembly,place_of_worship,42.4435834,-83.1030133
+way,1153627338,State Fair Avenue Church of God,place_of_worship,42.4393073,-83.1017865
+way,1153627361,Nazarene Christian Congregation,place_of_worship,42.4456409,-83.1030755
+way,1153634014,Miracle Tabernacle Church of God in Christ,place_of_worship,42.4464036,-82.9851372
+way,1153939826,Lockett Memorial Church of God in Christ,place_of_worship,42.4465944,-82.9761187
+way,1153939829,Second Sweet Home Missionary Baptist Church,place_of_worship,42.4302593,-82.9407227
+way,1154042212,Missionary Temple Christian Methodist Episcopal Church,place_of_worship,42.4276938,-83.0799827
+way,1154047846,Holy Trinity Slovak Lutheran Church,place_of_worship,42.3919050,-83.0390172
+way,1154047850,Masjid Mu'ath Bin Jabal,place_of_worship,42.3911590,-83.0406388
+way,1154047852,,clinic,42.3911407,-83.0396863
+way,1154047853,Hamtramck Medical Center,clinic,42.3911332,-83.0397098
+way,1154047854,New Revalations Church,place_of_worship,42.3920014,-83.0376510
+way,1154047855,New Saint John Mission Baptist Church,place_of_worship,42.3907642,-83.0426585
+way,1154049950,Church of God of Baldwin,place_of_worship,42.4082040,-83.0464195
+way,1154375879,All Saints Episcopal Church,place_of_worship,42.4313137,-83.1382701
+way,1154375891,,clinic,42.4312781,-83.1466454
+way,1154377432,Perfecting Church,place_of_worship,42.4264527,-83.0254556
+way,1154378643,King David Missionary Baptist Church,place_of_worship,42.4261568,-83.0608855
+way,1154539233,Isaiah New Testament Way Missionary Baptist Church,place_of_worship,42.4126343,-83.0801010
+way,1154539255,,place_of_worship,42.4160281,-83.0712072
+way,1155020946,Christ Example to the World,place_of_worship,42.3457947,-83.1166071
+way,1155642820,Goodwill Baptist Church,place_of_worship,42.3456864,-83.1191537
+way,1156061446,Zion Church of God,place_of_worship,42.3448147,-83.1234093
+way,1158021272,,place_of_worship,42.3674642,-83.1315699
+way,1158021276,,place_of_worship,42.3678183,-83.1335826
+way,1158539945,The Universal Church,place_of_worship,42.3767069,-83.1354833
+way,1158542414,Faith Ministries,place_of_worship,42.3738515,-83.1539078
+way,1158554207,The O.S. House of Prayer Ministries,place_of_worship,42.3830717,-83.1714700
+way,1158757781,Green Grove Missionary Baptist Church,place_of_worship,42.4188040,-83.0769002
+way,1158757803,Durga Temple,place_of_worship,42.4189483,-83.0610618
+way,1160247601,Henry Ford Health Heart & Vascular,clinic,42.2977432,-83.2628863
+way,1160735327,Higher Ground Ministries,place_of_worship,42.2751598,-83.1285247
+way,1160756851,Zion Hill Baptist Church of East Detroit,place_of_worship,42.4199434,-82.9839939
+way,1160756854,Saint Jude's Home for Boys,school,42.4226539,-82.9640467
+way,1160756855,Capstone Academy North (St. Judes),school,42.4226531,-82.9639379
+way,1160756856,New Greater Hill Mt. Zion Missionary Baptist Church,place_of_worship,42.4225923,-82.9626453
+way,1160756896,Rising Star Ministry,place_of_worship,42.4196654,-82.9604632
+way,1160756902,Agape Love Christian Center,place_of_worship,42.4182969,-82.9645954
+way,1160758243,Rushing Mighty Wind Church of God,place_of_worship,42.4348885,-82.9730409
+way,1160764417,Mount Hope United Methodist Church,place_of_worship,42.4352288,-82.9625185
+way,1160764419,The Rising Saints in God Church,place_of_worship,42.4352474,-82.9633629
+way,1160764424,Saint Jude Catholic Church,place_of_worship,42.4361284,-82.9562385
+way,1160859269,True Love Christian Ministries,place_of_worship,42.4261334,-83.0404115
+way,1161357160,Heavenly Missionary Baptist Church,place_of_worship,42.3922513,-83.0110254
+way,1161357172,First Progressive Baptist Church,place_of_worship,42.3957475,-83.0039498
+way,1161554462,New Strength Ministries,place_of_worship,42.4114387,-82.9924087
+way,1161554466,Alpha and Omega Church of God in Christ,place_of_worship,42.4122441,-82.9890964
+way,1161554467,True Deliverance Ministries,place_of_worship,42.4135931,-82.9923447
+way,1161554491,,place_of_worship,42.4389174,-82.9849563
+way,1161563988,Second Canaan Missionary Baptist Church,place_of_worship,42.4091096,-82.9648964
+way,1161563990,New Greater Love Baptist Church,place_of_worship,42.4117682,-82.9650315
+way,1161564008,Refuge Temple Cathedral of His Glory Church of God in Christ,place_of_worship,42.4165325,-82.9922445
+way,1161564010,Jesus Tabernacle Ministries,place_of_worship,42.4161886,-82.9722237
+way,1161564011,Lord of Lords Baptist Church,place_of_worship,42.4076668,-82.9666704
+way,1161576081,Faith Clinic Church of God in Christ,place_of_worship,42.4009887,-82.9821775
+way,1161576083,New Faith Restoration Ministries International,place_of_worship,42.3989324,-82.9849230
+way,1161576089,New Creation Christian Center,place_of_worship,42.4085197,-82.9528922
+way,1161576091,St. Matthew Catholic Church,place_of_worship,42.4118455,-82.9425576
+way,1161576106,Calvin East United Presbyterian Church,place_of_worship,42.4145019,-82.9358160
+way,1161576107,Bethany Christian Church,place_of_worship,42.4126654,-82.9347862
+way,1161576108,The Way of Holiness Church of God in Christ,place_of_worship,42.4120433,-82.9294914
+way,1161576109,True Rock Church,place_of_worship,42.4124769,-82.9275511
+way,1161577441,Greater Future Missionary Baptist Church,place_of_worship,42.4228394,-82.9411496
+way,1161577446,Second Mile Center of Detroit,place_of_worship,42.4298424,-82.9587737
+way,1161578994,Greater Old Landmark Missionary Baptist Church,place_of_worship,42.3931494,-82.9482672
+way,1161578995,Blessed Community Baptist Church,place_of_worship,42.3994474,-82.9470375
+way,1161578998,,place_of_worship,42.3997952,-82.9459820
+way,1161578999,Pentecostal Temple Church,place_of_worship,42.4007942,-82.9433113
+way,1161586659,Victory Fellowship Community Church,place_of_worship,42.3966528,-82.9617820
+way,1161586662,5point7 Community Church,place_of_worship,42.3979855,-82.9581677
+way,1161586667,Hamilton Elementary-Middle School,school,42.3989415,-82.9631268
+way,1161588088,Iconium Missionary Baptist Church,place_of_worship,42.4201606,-83.0050413
+way,1161591172,New Jerusalem Baptist Church,place_of_worship,42.4083506,-83.0236564
+way,1161593004,Our Lady Queen of Heaven-Good Shepherd Catholic Church,place_of_worship,42.4392180,-83.0215165
+way,1161605061,Saint Raymond-Our Lady of Good Counsel Catholic Church,place_of_worship,42.4452583,-82.9910104
+way,1161606263,Temple of Faith Missionary Baptist Church,place_of_worship,42.4385487,-82.9689518
+way,1163068819,Rhema Church,place_of_worship,42.4039029,-82.9288280
+way,1163130927,Greater True Vine Missionary Baptist Church,place_of_worship,42.3714649,-82.9947621
+way,1164211143,The R.O.A.D. Church,place_of_worship,42.4041942,-83.1795144
+way,1164451237,New MIssionary Baptist Church,place_of_worship,42.4026068,-83.1330531
+way,1164451238,After Christ Church,place_of_worship,42.4025952,-83.1340277
+way,1164553229,Hammond Church of God in Christ,place_of_worship,42.4099361,-83.1576425
+way,1164553231,Mount Olive Full Gospel Church,place_of_worship,42.4099557,-83.1580697
+way,1164553260,Seventh Day Adventist Reform Movement,place_of_worship,42.4105107,-83.1665450
+way,1164553263,Ekklesia Evangelistic Ministries,place_of_worship,42.4093728,-83.1657166
+way,1164553266,Saint Galilee Missionary Baptist Church,place_of_worship,42.4097684,-83.1681258
+way,1164553269,Christland Missionary Baptist Church,place_of_worship,42.4092467,-83.1714839
+way,1164553270,Old Landmark Baptist,place_of_worship,42.4097325,-83.1700137
+way,1164553273,Faith Temple C.O.O.L.J.C.,place_of_worship,42.4097388,-83.1709589
+way,1164553282,The Gathering Ministries Church of God in Christ,place_of_worship,42.4111993,-83.1701244
+way,1164553309,True Love International Ministry,place_of_worship,42.4093550,-83.1681172
+way,1164553310,Haitian-Detroit Mahanaïm Seventh-Day Adventist Church,place_of_worship,42.4093778,-83.1673858
+way,1165101290,Christian Union Missionary Baptist Church,place_of_worship,42.4362812,-82.9757991
+way,1168575631,Haven of Rest Missionary Baptist Church,place_of_worship,42.4154347,-83.0003906
+way,1171597333,Bailey Temple Church of God in Christ,place_of_worship,42.3474274,-83.1055932
+way,1173206586,Trinity Church of Holiness,place_of_worship,42.4242954,-83.1700977
+way,1173349754,New Creation Church of God in Christ,place_of_worship,42.4329287,-83.0881276
+way,1173349757,Bethelite Spiritual Institute,place_of_worship,42.4325312,-83.0880481
+way,1173962093,New Life Ministry of Detroit Baptist Church,place_of_worship,42.3783315,-82.9495431
+way,1174677649,Southeast Michigan ENT,doctors,42.2950665,-83.2483789
+way,1175441487,Gospel Truth Tabernacle of God,place_of_worship,42.3322566,-83.1482967
+way,1175596184,House of Prayer and Praise,place_of_worship,42.4124955,-83.1597926
+way,1175596188,Evangelistic Ministries Center,place_of_worship,42.4128843,-83.1598684
+way,1175596215,Wold Of Truth Christian Center,place_of_worship,42.4111446,-83.1597684
+way,1177112127,Saint Cunegunda Church,place_of_worship,42.3370446,-83.1471853
+way,1178794772,Walk in the Spirit Church of God in Christ,place_of_worship,42.4208537,-82.9617859
+way,1179785646,Cesar Chavez Academy Middle School,school,42.3115147,-83.1156000
+way,1179824041,Church of Jesus Christ Our Lord,place_of_worship,42.3888226,-82.9740947
+way,1179896715,Annapolis High School,school,42.2759212,-83.2466881
+way,1179902440,Pardee Elementary School,school,42.2759328,-83.2568391
+way,1179902441,Polk Elementary School,school,42.2760761,-83.2387037
+way,1180982063,Sunrise Missionary Baptist Church,place_of_worship,42.3809815,-83.1140968
+way,1181224748,God's Grace Outreach Ministries Church,place_of_worship,42.4246015,-82.9916765
+way,1182290774,The Miracle Center,place_of_worship,42.3998773,-83.1689850
+way,1183700482,Church of Our Savior,place_of_worship,42.3913168,-82.9694638
+way,1183744772,Greater Golden Gate Missionary Baptist Church,place_of_worship,42.3954491,-82.9485987
+way,1183756997,Bethesda Church House of Mercy,place_of_worship,42.3592032,-83.1148190
+way,1184234381,Temple of St. Jude Spiritual Church of Christ,place_of_worship,42.4023190,-83.1573081
+way,1184277948,God Strorehouse of Eternal Love,place_of_worship,42.3612784,-83.1576804
+way,1185392228,Mount Calvary AME Church,place_of_worship,42.4326808,-83.0838650
+way,1185394477,New Bethlehem Baptist Church,place_of_worship,42.4320189,-83.0923229
+way,1187499614,,school,42.3926086,-83.0490351
+way,1188318003,Vernon Chapel African Methodist Episcopal Church,place_of_worship,42.4287279,-83.0660996
+way,1188341487,Community Pilgrim Missionary Baptist Church,place_of_worship,42.4133087,-83.0137125
+way,1190486843,Bethesda Temple of Detroit,place_of_worship,42.4000645,-83.1793156
+way,1190684600,Christian Life Apostolic Ministries,place_of_worship,42.3297934,-83.1187220
+way,1193557231,Iglesia de Cristo Ministerios el Verbo de Dios,place_of_worship,42.3348916,-83.1356955
+way,1193562684,Greater Mount Tabor Missionary Baptist Church,place_of_worship,42.3662372,-83.1429191
+way,1196979868,,school,42.2748533,-83.2831965
+way,1200009515,Banks Triumph Metropolitan Baptist Church,place_of_worship,42.3869588,-83.1374921
+way,1200017870,Real Spirit Tabernacle Apostle,place_of_worship,42.4009260,-83.1397910
+way,1200020823,Glorious Church,place_of_worship,42.4074120,-83.1400570
+way,1200819494,,clinic,42.4191221,-83.1795705
+way,1210662863,Highland Park Community of Christ,place_of_worship,42.4117366,-83.1164515
+way,1211373277,Ambassadors for Christ Holiness Temple,place_of_worship,42.3735680,-83.1651504
+way,1212362188,West Side Unity Church,place_of_worship,42.3666141,-83.1263128
+way,1212362256,New Home Full Gospel Christian Church,place_of_worship,42.3656795,-83.1213566
+way,1215854971,Resurrection Ministries International Deliverance Church,place_of_worship,42.4249719,-83.1796264
+way,1215854984,Shekinah Glorious Kingdom,place_of_worship,42.4235420,-83.1780557
+way,1217233016,Overcomers Evangelical Missionary Baptist Church,place_of_worship,42.4392108,-83.1967321
+way,1218519443,Hopewell Missionary Baptist Church,place_of_worship,42.3962622,-83.1283880
+way,1218519450,True Rock Church,place_of_worship,42.3908943,-83.1270611
+way,1218521660,Solid Rock Community Church,place_of_worship,42.3908753,-83.1202337
+way,1220291137,House of God,place_of_worship,42.3763633,-83.1616880
+way,1220291146,All Saints Tabernacle,place_of_worship,42.3734690,-83.1688271
+way,1220291154,Christ Temple Baptist Church,place_of_worship,42.3735524,-83.1667009
+way,1220294871,Gregg Memorial Church,place_of_worship,42.3737396,-83.1603291
+way,1220294874,,place_of_worship,42.3737358,-83.1594271
+way,1223797182,Church on the Move,place_of_worship,42.3729815,-83.0415814
+way,1223804901,Detroit Medical Group,clinic,42.3672565,-83.0229245
+way,1225531680,Dove Christian Center Church,place_of_worship,42.3362534,-83.1222679
+way,1225642061,,place_of_worship,42.3465256,-83.1036782
+way,1232501469,Metropolitan AME Zion Church,place_of_worship,42.4222661,-83.1078695
+way,1232504166,Gracious Saviour Evangelical Lutheran Church,place_of_worship,42.4355662,-83.1911779
+way,1232504173,In His Steps Christian Fellowship Church,place_of_worship,42.4365326,-83.1922871
+way,1232987829,,clinic,42.3642766,-83.0233076
+way,1232987830,,clinic,42.3643524,-83.0231420
+way,1233449455,Rock of Ages Community Church,place_of_worship,42.4343900,-83.1700293
+way,1236324458,Jesurun Christian Center,place_of_worship,42.3518256,-83.1395994
+way,1236324467,New Jerusalem Temple Apostle,place_of_worship,42.3517684,-83.1430083
+way,1236324468,True Holiness Church,place_of_worship,42.3522381,-83.1423722
+way,1236329089,Church of Christ Westside,place_of_worship,42.3483116,-83.1181965
+way,1238352579,Saint Hedwig Church,place_of_worship,42.3277274,-83.1097417
+way,1238354053,Iglesia Pentecostal Unida,place_of_worship,42.3296000,-83.1105989
+way,1238364333,Little Rock & Macedonia Primitive Baptist Church,place_of_worship,42.3490944,-83.1052356
+way,1238651445,Crawford Temple Church of God in Christ,place_of_worship,42.3841766,-83.1050723
+way,1238651455,Saint Peter's Holiness Church of Jesus Christ,place_of_worship,42.3859644,-83.1153074
+way,1238677321,Jesus Anointed Ministry,place_of_worship,42.3652254,-83.1927874
+way,1238687052,Asamblea Cristiana Sala Evangélica,place_of_worship,42.3622402,-83.1271249
+way,1244106841,Masjid Al Rahma,place_of_worship,42.3728162,-83.1771466
+way,1244116726,Iglesia Cristiana La Vina Warrendale,place_of_worship,42.3426385,-83.2284671
+way,1244116738,,clinic,42.3430042,-83.2246449
+way,1244631947,,clinic,42.4189615,-83.0598307
+way,1244965163,Bridge Academy West,school,42.4075988,-83.0618363
+way,1246070490,Church of the Living God,place_of_worship,42.3714398,-83.1587732
+way,1272529002,Light of the World Christian Church,place_of_worship,42.4387375,-82.9748377
+way,1272529008,Bible Standard Church of God,place_of_worship,42.4389421,-82.9755153
+way,1276571366,Colorectal Clinic of Michigan,clinic,42.2979143,-83.2451935
+way,1276571371,Dearborn Oral Surgery,doctors,42.2974893,-83.2461785
+way,1276571375,American Muslim Center,place_of_worship,42.2910594,-83.2483366
+way,1280980563,Marcus Garvey Academy,school,42.3589345,-83.0015336
+way,1289800823,Church of God of Detroit,place_of_worship,42.3756958,-83.1776936
+way,1289847307,Born to Win Ministries,place_of_worship,42.3657299,-83.1713881
+way,1291811184,Whole Truth Church of God,place_of_worship,42.3414643,-83.0898337
+way,1297148647,,clinic,42.3723983,-83.1935189
+way,1297148648,,clinic,42.3723877,-83.1939497
+way,1305614095,Catholic Central High School,school,42.2897017,-83.0187970
+way,1308034053,Brighter Day Baptist Church,place_of_worship,42.3880220,-82.9690904
+way,1320811298,The Historic Motor City Missionary Baptist Church,place_of_worship,42.3380199,-83.1101190
+way,1320813025,Triumph the Church & Kingdom,place_of_worship,42.3408799,-83.1078032
+way,1372502904,Central Baptist Church West Campus,place_of_worship,42.2985274,-83.2563121
+way,1387371871,"Retina Expert Asheesh Tewari, MD",clinic,42.2982410,-83.2841887
+way,1396310010,,school,42.3083939,-83.0269910
+way,1396668785,Allen Park Presbyterian Church,place_of_worship,42.2550758,-83.2084062
+way,1413302913,Solanus Casey Center,place_of_worship,42.3518243,-83.0148396
+way,1416599104,Forest Glade Public School,school,42.3098124,-82.9248932
+way,1416599105,Forest Glade Public School,school,42.3102739,-82.9230103
+way,1423097996,Holy Cross Greek Orthodox Church,place_of_worship,42.2849380,-82.9813124
+way,1435178008,"Michigan Perintal Associates, PC",doctors,42.2973477,-83.2463803
+way,1533058800,Family Worship Center,place_of_worship,42.2767531,-83.2309518
+way,1533206738,Covenant Community Care,clinic,42.3571237,-83.2140447
